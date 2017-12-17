@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>An avenue of ways</title>
+    <description>Musings on life, technology and audio.
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 16 Dec 2017 18:32:38 -0800</pubDate>
+    <lastBuildDate>Sat, 16 Dec 2017 18:32:38 -0800</lastBuildDate>
+    <generator>Jekyll v3.6.2</generator>
+
+      <item>
+        <title>Tedx Sf Notes</title>
+        <description>&lt;p&gt;It was a great gift to given to me by my mother-in-law and wife. The opportunity to step outside of the day-to-day tech mind space was quite enthralling. The frontier of what is possible due to ever cheaper technology, scalable distributed learning, and the passion for making a better side in the future is truly inspiring.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Quentin Hardy&lt;/strong&gt;
+Fear and compassion drives social progress?  Where is the fear today about what is next?&lt;/p&gt;
+
+&lt;h2 id=&quot;precision&quot;&gt;Precision&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Atul Butte&lt;/strong&gt;
+Quantified Self: Learning is precise, doesn’t matter if data roughly inaccurate. Feedback cycles between devices collecting and analysis / interpretation, does this have to be a human? Probably. De-identification.  Data visualization of people moving between sickness states, then identify percentage of likely hold.
+Idea: ResistBot style ‘get my medical records’ forward to another service?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Andrew Hessel&lt;/strong&gt;
+We can program cells today (Autodesk is doing this?) Synthetic yeast project.   Human Genome 2?  Mainly focused around synthetic biology, scientists weren’t sharing. GP-write&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Neil Grimmer&lt;/strong&gt;
+Can you personalize food?  Habit company personalizing food?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Matthew Sweeney&lt;/strong&gt;
+Smart to start with medicine delivery, clear need, urgent and tool to break through regulation.  Cardiac arrest, deliver defibrillators.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sebastian De Halleux&lt;/strong&gt;
+Ocean data is scarce, but what are we trying to measure, could it predict hurricanes?&lt;/p&gt;
+
+&lt;h2 id=&quot;currencies&quot;&gt;Currencies&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Rebecca AltmaN&lt;/strong&gt;
+Plastics usage lifespan, refrigerators to lids for coffee cups. Polystyrene being eaten by plankton and eventually ending up inside us.  8.3B metric tons of plastic.  In 4 generations plastics have changed significantly - why are we so locked into disposable plastics?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Matthew Roszak&lt;/strong&gt;
+Golem? Civic? Every tribe can tokenize their economy, award points, incentivize early adopters.  SpaceChain?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Arthur Breitman&lt;/strong&gt;
+Keynesian game - shilling point - if communication is expensive, they will find a solution.  Like all currencies people have to accept it, abide by the rules, based on the shilling point.  Lots of active research, why? # of Arxiv papers.  How do you move the shilling point? Forks are one approach.  Play for legitimacy, using authority to creating that (Satoshi says).  Forks are like a game of chicken, not an effective way to do governance.  Focus on the common parts, we all have to innovate, how? Has to be merit focused, otherwise you get shilling points.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mar Cabra&lt;/strong&gt;
+CableGate, PanamaPaper, Record numbers of leaks and document dumps. Sharing is not the natural step for journalists.  Federation is the only way to deal with the amount of data that is produced.  Since everything is logged, this just gets harder.  Pulitzer’s prize for Panama Paper, all made possible but the ICIJ.  How do we archive and verify?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Gabe Zichermann&lt;/strong&gt;
+832m people are alcoholics? Everyone is an addict, the dopamergic loop makes us survive and push our lineage forward.  Addiction treatments are really poor, need to think about it like preventative treatment, how to vaccinate people? Onward does this with Chatbot, AI.  Own AI to block other gamified attempts to hi-jack your behavior or consciousness.&lt;/p&gt;
+
+&lt;h2 id=&quot;empathy&quot;&gt;Empathy&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Jane Metcalf&lt;/strong&gt;
+Partnership of Biome, Josiah the Oden crispr at home hacker, crazy ethical complications. Biohacker and citizen scientists exploring solutions, NIST is interested.  We can be afraid or curious.  Video games for ADHD?  Synthetic Biology. Mango Materials, was methane to textiles.  Already changing humans, selecting out mental health traits. “Unnatural selection”, germ-line editing.  So much mis information in food, social echo tribal chamber.  “NoGMO” on Salt, so ridiculous, FUD.   Date to change your mind. What kind of species are we designing?  Neo.life&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joon Yun&lt;/strong&gt;
+Homeostatic capacity goes away over life, need to change what we measure.  Heart rate doesn’t change, but response to exercise - need some temporal resolution on diagnostics.  Capacity building, try to prop stuff up (like blood pressure medicine).  Make the body stronger what about giving blood pressure increasing medicine instead of lowering.  Interesting thought about gene evolution works in death, but for knowledge.  Stretch your range, we’re only species that goes towards the medium.  Exercise different times of the day, different things.  Meditate and Exhilarate. Increase dynamic range.  Happy and Sad.  Improve on Stage.  Functional Longevity.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Elaine Fong&lt;/strong&gt;
+What do you do when you are asked to design death?  Death with Dignity in Washington, but Dr said “no” to sign off it.  Easy to think of design as asthetics.  But it’s a means of communication.  DwD requires design because it requires discussion, a shared language, with a common goal.  How difficult does a system need to be to say you want to die.  Death is a universal experience, conversation we all have to have.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nick Adkins&lt;/strong&gt;
+Pinksocks gifting is cool, neat to see burning man ideas percolating.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Fran Guijaro&lt;/strong&gt;
+What other words are like the SF fog, hiding stories.  Homelessness is one, what are others?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Jack Gallant&lt;/strong&gt;
+1/3 of brains are the same in functional areas, 2/3’s are not.  FMRI is spatial, EEG is temporal.  Will be there soon!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dan Everett&lt;/strong&gt;
+Language is the first and best technology, homo erectus was around for 2m years 1/4 of sapiens. They explored. Even with only 11 sounds, they could communicate with only 2 (1,0 analogy).  3 signs.  Indexes to physical world, Icon physical resemblance, Symbol culturally determined.  G1, G2, G3 grammars.  G1 is ordered word “drink, drive, jail”, G2 is hierarchical, G3 hierarchy and recursion. All animals communicate, but only humans use language.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Richard Socher&lt;/strong&gt;
+Athelas.com counting blood cells, sentiment analysis, 2-iter DNM.&lt;/p&gt;
+
+&lt;h2 id=&quot;intelligence&quot;&gt;Intelligence&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Omoju Miller&lt;/strong&gt;
+Knowledge is acquired not infused, like you extend a building.  Knowledge to come into your life, logical form and emotional form. Myth of innate ability.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Oct 2017 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/blog/2017/10/10/tedx-sf-notes/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2017/10/10/tedx-sf-notes/</guid>
+
+
+        <category>blog</category>
+
+      </item>
+
+      <item>
+        <title>5 Ideas</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;Automated growing farms that are controlled by personal apps, you need to tend to your own garden but a little robot does the actual watering or feeding, sort of gameify actual food curation.&lt;/li&gt;
+  &lt;li&gt;3-D printed paintings that are slightly embossed and provide a perspective landscape on your wall. Perhaps use some sort of plastic with small metal particles for a luminescence.&lt;/li&gt;
+  &lt;li&gt;Trash bags that are different color than white because why are we always looking out white trashbags.&lt;/li&gt;
+  &lt;li&gt;A conference room with always on Siri dictate / translate, that would continuously be listening and taking notes. There would be a potential option for quick correction afterwords if needed.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Sat, 30 Sep 2017 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/ideas/2017/09/30/5-ideas/</link>
+        <guid isPermaLink="true">http://localhost:4000/ideas/2017/09/30/5-ideas/</guid>
+
+
+        <category>ideas</category>
+
+      </item>
+
+      <item>
+        <title>5 Ideas</title>
+        <description>&lt;p&gt;Strange that my first list of 10 ideas was Pretty directly rooted in my day-to-day work and or life. I wonder if this will change over time.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Tile flooring for offices that has piezo electric motors in them so they can generate a small amount of electricity&lt;/li&gt;
+  &lt;li&gt;Mats for your computer that has a buzzing timer so that you can know when 24 minutes of work have been up.&lt;/li&gt;
+  &lt;li&gt;Mats that are slightly unstable so that you have to flex your muscles in order to stay standing, this would be great for back injuries.&lt;/li&gt;
+  &lt;li&gt;Using your video camera to track head movements, two or three of these could map to commands such as go to chrome tab one.&lt;/li&gt;
+  &lt;li&gt;Stacked shared communal gardens that are placed inside of city blocks, people could take shared ownership over some animals if they would prefer fresh eggs or the sort.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Fri, 29 Sep 2017 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/ideas/2017/09/29/5-ideas/</link>
+        <guid isPermaLink="true">http://localhost:4000/ideas/2017/09/29/5-ideas/</guid>
+
+
+        <category>ideas</category>
+
+      </item>
+
+      <item>
+        <title>Foray Into Amps</title>
+        <description>&lt;p&gt;The lovely folks at work thoughtfully presented me with a DIY &lt;a href=&quot;http://bottlehead.com&quot;&gt;Bottlehead Crack OTL&lt;/a&gt; headphone amplifier kit.  Why would one want to solder, assemble and test something that has enough electricity running through it to kill someone?  Because engineering.&lt;/p&gt;
+
+&lt;p&gt;Ok so step one, tubes are mysterious glass enclosures so we need a surface that will accentuate said depth.  let’s paint the top of our metal plate to give it some depth.&lt;/p&gt;
+
+&lt;p&gt;Oh and I didn’t get it right the first time, sprayed too much and it dried strange; acetone to the rescue!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/amp/painted_metal.jpg&quot; alt=&quot;Paint that metal!&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The rest of the build was pretty fun, it would have been way easier to simply add in all the upgrades during the initial build as desoldering larger resistors and caps in tight spaces was tough.&lt;/p&gt;
+
+&lt;p&gt;Let’s get started!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/amp/build_1.jpg&quot; alt=&quot;!&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And now for the transformer and some hookups.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/amp/build_2.jpg&quot; alt=&quot;!&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Connecting all the power to the tubes..&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/amp/build_3.jpg&quot; alt=&quot;!&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And done!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/amp/build_4.jpg&quot; alt=&quot;!&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now for the Speedball upgrade!  This should give us a lot more fidelity and clarity on the edges of the sound waves.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/amp/build_5.jpg&quot; alt=&quot;!&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now hooking it all up and plugging in my Beyerdyanmic T90p, it sounds awesome!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/amp/done.jpg&quot; alt=&quot;!&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 14 Jul 2015 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/blog/2015/07/14/foray-into-amps/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2015/07/14/foray-into-amps/</guid>
+
+
+        <category>blog</category>
+
+      </item>
+
+  </channel>
+</rss>
