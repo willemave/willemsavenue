@@ -1,0 +1,66 @@
+# Site settings
+title:              An avenue of ways
+email:              willem.ave@gmail.com
+description:        >
+  Musings on life, technology and audio.
+baseurl:            "" # the subpath of your site, e.g. /blog/
+url:                "http://willemave.com" # the base hostname & protocol for your site
+twitter_username:   willemaw
+github_username:    willemave
+date_format:        "%b %-d, %Y"
+
+# Post sharing icons
+show_sharing_icons: false
+share_text:         'Share this post!'
+# Change to 'true' to enable individual icons
+share_facebook:     false
+share_twitter:      false
+share_googleplus:   false
+share_linkedin:     false
+share_digg:         false
+share_tumblr:       false
+share_reddit:       false
+share_stumbleupon:  false
+share_hackernews:   false
+
+# Google analytics
+google_analytics:
+
+# Optional features
+animated:           false
+show_related_posts: false
+show_post_footers:  false
+show_social_icons:  false
+
+# Build settings
+# Build settings
+markdown:           kramdown
+redcarpet:
+  extensions:       ['smart', 'tables', 'with_toc_data']
+permalink:          pretty
+sass:
+  compressed:       true
+
+plugins:
+  - jekyll-paginate-v2
+  - jekyll-sitemap
+
+exclude:            [vendor]
+
+#iawritercopier:
+#  src: /tmp/
+#  categories:
+#  - blog
+#  - ideas
+#  - books
+
+pagination:
+  # Site-wide kill switch, disabled here it doesn't run at all
+  enabled: true
+  # Set to 'true' to enable pagination debugging. This can be enabled in the site config or only for individual pagination pages
+  debug: true
+  # The default document collection to paginate if nothing is specified ('posts' is default)
+  collection: 'posts'
+  per_page: 10
+  sort_reverse: true
+

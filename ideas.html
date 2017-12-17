@@ -1,0 +1,16 @@
+---
+layout: default
+pagination:
+  enabled: true
+  category: ideas
+---
+
+<div class="home">
+  <h1>Ideas</h1>
+    <div class="posts">
+      {% for post in paginator.posts %}
+        {% include post_meta.html %}
+        {% include pagination.html %}
+      {% endfor %}
+    </div>
+</div>

@@ -1,0 +1,23 @@
+---
+# The scss file which include files from _sass/
+# Colors are from https://www.viget.com/articles/color-contrast
+---
+@charset "utf-8";
+
+html * { 
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif !important;
+	color: #373D3F;
+}
+
+a,
+a:link,
+a:active,
+a:visited,
+a:hover {
+    color:           #107896;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
