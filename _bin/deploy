@@ -4,15 +4,15 @@ set -ex
 
 jekyll build
 
-pushd _gh-pages
-
-cp -r ../_site/* .
-
 git add --all .
-git commit -m "New Content"
 
-git push origin gh-pages
+git commit -m 'Commit new content'
 
-popd
+# if anything in the site/ subdirectory changed in the prior commit,
+# push that directory to gh-pages for auto generation.
+git diff-tree -r --name-only --no-commit-id master | grep '^_site/' &> /dev/null
+if [ $? == 0 ]; then
+  git push origin `git subtree split --prefix _site master 2> /dev/null`:gh-pages --force
+fi
 
-echo "DONE"
+git reset --hard HEAD~1
