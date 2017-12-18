@@ -15,21 +15,27 @@ class IAWriterCopier
   def copy
     @categories.each do |category|
       src_dir = File.join(src, category, "*.{#{@markdown_ext}}")
+      post_dir = File.join(dest, category, '_posts')
 
-      FileUtils.mkdir_p File.join(dest, category, '_posts')
+      FileUtils.mkdir_p post_dir
+      FileUtils.rm Dir.glob(File.join(src_dir,"*.{#{@markdown_ext}}"))
 
       Dir.glob(src_dir) do |file|
         filename = File.basename(file)
 
         unless filename.match? /^\d{,4}-\d{,2}-\d{,2}/
-          date = File.ctime(file).strftime('%Y-%m-%d')
+          date = File.birthtime(file).strftime('%Y-%m-%d')
           filename = "#{date}-#{filename}"
         end
 
-        destination_file = File.join(dest, category, '_posts', filename)
+        destination_file = File.join(post_dir, filename)
 
         logger.info "cp #{file} #{destination_file}"
-        FileUtils.cp file, destination_file
+        src = IO.read(file)
+        unless src.match? /^---/
+          src.prepend(frontmatter)
+        end
+        IO.write(destination_file, src, mode: 'w')
       end
     end
   end
@@ -53,6 +59,14 @@ class IAWriterCopier
 
   def logger
     Jekyll.logger
+  end
+
+  def frontmatter
+    <<-STR
+---
+layout: post
+---
+    STR
   end
 end
 

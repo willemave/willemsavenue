@@ -2,16 +2,18 @@
 layout: post
 ---
 
-It was a great gift to given to me by my mother-in-law and wife. The opportunity to step outside of the day-to-day tech mind space was quite enthralling. The frontier of what is possible due to ever cheaper technology, scalable distributed learning, and the passion for making a better side in the future is truly inspiring.
+# 2017 TedX
 
+My mother-in-law and wife gave me a great gift, tickets to this years TEDx SF. What follows are some notes and thoughts on the conference. The opportunity to step outside of the day-to-day tech mind space and explore various topics with thought leaders was enthralling. The frontier of what is possible due to ever cheaper technology, scalable distributed learning, and the passion for making a better side in the future is truly inspiring.
 
 **Quentin Hardy**
 Fear and compassion drives social progress?  Where is the fear today about what is next?  
 
 ## Precision
+
 **Atul Butte** 
 Quantified Self: Learning is precise, doesn’t matter if data roughly inaccurate. Feedback cycles between devices collecting and analysis / interpretation, does this have to be a human? Probably. De-identification.  Data visualization of people moving between sickness states, then identify percentage of likely hold.
-Idea: ResistBot style ‘get my medical records’ forward to another service?
+_Idea_: ResistBot style ‘get my medical records’ and forward to another service?
 
 **Andrew Hessel**
 We can program cells today (Autodesk is doing this?) Synthetic yeast project.   Human Genome 2?  Mainly focused around synthetic biology, scientists weren’t sharing. GP-write
@@ -23,11 +25,11 @@ Can you personalize food?  Habit company personalizing food?
 Smart to start with medicine delivery, clear need, urgent and tool to break through regulation.  Cardiac arrest, deliver defibrillators. 
 
 **Sebastian De Halleux**
-Ocean data is scarce, but what are we trying to measure, could it predict hurricanes? 
+Ocean data is scarce, but what are we trying to measure, could it predict hurricanes? Neat approach to solar sensors.
 
 
 ## Currencies
-**Rebecca AltmaN**
+**Rebecca Altman**
 Plastics usage lifespan, refrigerators to lids for coffee cups. Polystyrene being eaten by plankton and eventually ending up inside us.  8.3B metric tons of plastic.  In 4 generations plastics have changed significantly - why are we so locked into disposable plastics?
 
 **Matthew Roszak**

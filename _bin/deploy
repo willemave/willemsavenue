@@ -1,0 +1,18 @@
+#!/bin/bash
+
+set -ex
+
+jekyll build
+
+pushd _gh-pages
+
+cp -r ../_site/* .
+
+git add --all .
+git commit -m "New Content"
+
+git push origin gh-pages
+
+popd
+
+echo "DONE"
