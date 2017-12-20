@@ -4,10 +4,10 @@
     <title>An avenue of ways</title>
     <description>Musings on life, technology and audio.
 </description>
-    <link>http://willemave.com/</link>
-    <atom:link href="http://willemave.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 17 Dec 2017 16:07:14 -0800</pubDate>
-    <lastBuildDate>Sun, 17 Dec 2017 16:07:14 -0800</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 20 Dec 2017 15:12:58 -0800</pubDate>
+    <lastBuildDate>Wed, 20 Dec 2017 15:12:58 -0800</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
 
       <item>
@@ -45,8 +45,8 @@ System wide principles&lt;/p&gt;
 &lt;p&gt;Change can only happen if you admit what you’re not good at. There is almost a good path in a case where you need two things and have to choose.&lt;/p&gt;
 </description>
         <pubDate>Tue, 12 Dec 2017 00:00:00 -0800</pubDate>
-        <link>http://willemave.com/books/2017/12/12/Book-Ray-Dalio-Principles/</link>
-        <guid isPermaLink="true">http://willemave.com/books/2017/12/12/Book-Ray-Dalio-Principles/</guid>
+        <link>http://localhost:4000/books/2017/12/12/Book-Ray-Dalio-Principles/</link>
+        <guid isPermaLink="true">http://localhost:4000/books/2017/12/12/Book-Ray-Dalio-Principles/</guid>
 
 
         <category>books</category>
@@ -62,8 +62,8 @@ Generalizations on civilization started with insufficient data (animal behaviors
 
 </description>
         <pubDate>Sat, 09 Dec 2017 00:00:00 -0800</pubDate>
-        <link>http://willemave.com/books/2017/12/09/Book-Selections-of/</link>
-        <guid isPermaLink="true">http://willemave.com/books/2017/12/09/Book-Selections-of/</guid>
+        <link>http://localhost:4000/books/2017/12/09/Book-Selections-of/</link>
+        <guid isPermaLink="true">http://localhost:4000/books/2017/12/09/Book-Selections-of/</guid>
 
 
         <category>books</category>
@@ -87,8 +87,8 @@ Generalizations on civilization started with insufficient data (animal behaviors
 &lt;p&gt;6-70k+ years ago. Ancient hunter gathers were much more diverse, eating many things, being a master of their domain. Religion and political structure is murky for these humans. Have we been the same level of violent (5% back then and same in 2000’s, bands being genocide). Isolated in AfroAsian. Indonesians ‘evolved’ boats, went to Australia, sapiens extinct most flora there - we’re ecological serial killers, mammoths, etc.&lt;/p&gt;
 </description>
         <pubDate>Sun, 26 Nov 2017 00:00:00 -0800</pubDate>
-        <link>http://willemave.com/books/2017/11/26/Book-Sapiens/</link>
-        <guid isPermaLink="true">http://willemave.com/books/2017/11/26/Book-Sapiens/</guid>
+        <link>http://localhost:4000/books/2017/11/26/Book-Sapiens/</link>
+        <guid isPermaLink="true">http://localhost:4000/books/2017/11/26/Book-Sapiens/</guid>
 
 
         <category>books</category>
@@ -252,8 +252,8 @@ Decision meetings
 All Hands&lt;/p&gt;
 </description>
         <pubDate>Sat, 25 Nov 2017 00:00:00 -0800</pubDate>
-        <link>http://willemave.com/books/2017/11/25/Book-Radical-Candor/</link>
-        <guid isPermaLink="true">http://willemave.com/books/2017/11/25/Book-Radical-Candor/</guid>
+        <link>http://localhost:4000/books/2017/11/25/Book-Radical-Candor/</link>
+        <guid isPermaLink="true">http://localhost:4000/books/2017/11/25/Book-Radical-Candor/</guid>
 
 
         <category>books</category>
@@ -305,8 +305,8 @@ What if everything was erased the second you died? That would destroy motivation
 
 </description>
         <pubDate>Sat, 25 Nov 2017 00:00:00 -0800</pubDate>
-        <link>http://willemave.com/books/2017/11/25/Book-Payoff-hidden-logic-that-shapes-our-motivations/</link>
-        <guid isPermaLink="true">http://willemave.com/books/2017/11/25/Book-Payoff-hidden-logic-that-shapes-our-motivations/</guid>
+        <link>http://localhost:4000/books/2017/11/25/Book-Payoff-hidden-logic-that-shapes-our-motivations/</link>
+        <guid isPermaLink="true">http://localhost:4000/books/2017/11/25/Book-Payoff-hidden-logic-that-shapes-our-motivations/</guid>
 
 
         <category>books</category>
@@ -501,8 +501,8 @@ Intelligent people make decisions based on opportunity costs—in other words, i
 &lt;p&gt;value as a statistical factor (Fama/ French) and value as an analytical style or goal (Ben Graham). “Factor” is based on the premise that markets are efficient and use a top down approaches such as “book-to-market” used as a proxy metric for intrinsic value, another way of index investing. Grahams are bottom up based on the business, using return on equity (return / total equity) and return on capital (return / equity + debts).&lt;/p&gt;
 </description>
         <pubDate>Sat, 25 Nov 2017 00:00:00 -0800</pubDate>
-        <link>http://willemave.com/books/2017/11/25/Book-Munger/</link>
-        <guid isPermaLink="true">http://willemave.com/books/2017/11/25/Book-Munger/</guid>
+        <link>http://localhost:4000/books/2017/11/25/Book-Munger/</link>
+        <guid isPermaLink="true">http://localhost:4000/books/2017/11/25/Book-Munger/</guid>
 
 
         <category>books</category>
@@ -522,8 +522,8 @@ Intelligent people make decisions based on opportunity costs—in other words, i
 &lt;p&gt;But you will hardly remember 5% of your whole life.  You really don’t know your mother, your mother doesn’t really know you.  We have to respect everyone’s dreams.  Every relationship is a living dream.  Track of love and Track of fear.  Love has no obligations, Fear is all obligations.  Love  is based on respect, fear is not.  Self pity comes from dis-respect.&lt;/p&gt;
 </description>
         <pubDate>Sat, 25 Nov 2017 00:00:00 -0800</pubDate>
-        <link>http://willemave.com/books/2017/11/25/Book-Mastery-of-Love/</link>
-        <guid isPermaLink="true">http://willemave.com/books/2017/11/25/Book-Mastery-of-Love/</guid>
+        <link>http://localhost:4000/books/2017/11/25/Book-Mastery-of-Love/</link>
+        <guid isPermaLink="true">http://localhost:4000/books/2017/11/25/Book-Mastery-of-Love/</guid>
 
 
         <category>books</category>
@@ -596,8 +596,8 @@ What circumstances do they use the products?  What does this reveal about the na
 
 </description>
         <pubDate>Sat, 25 Nov 2017 00:00:00 -0800</pubDate>
-        <link>http://willemave.com/books/2017/11/25/Book-Competing-against-luck/</link>
-        <guid isPermaLink="true">http://willemave.com/books/2017/11/25/Book-Competing-against-luck/</guid>
+        <link>http://localhost:4000/books/2017/11/25/Book-Competing-against-luck/</link>
+        <guid isPermaLink="true">http://localhost:4000/books/2017/11/25/Book-Competing-against-luck/</guid>
 
 
         <category>books</category>
@@ -617,8 +617,8 @@ What circumstances do they use the products?  What does this reveal about the na
 &lt;/ol&gt;
 </description>
         <pubDate>Thu, 12 Oct 2017 00:00:00 -0700</pubDate>
-        <link>http://willemave.com/ideas/2017/10/12/5-ideas/</link>
-        <guid isPermaLink="true">http://willemave.com/ideas/2017/10/12/5-ideas/</guid>
+        <link>http://localhost:4000/ideas/2017/10/12/5-ideas/</link>
+        <guid isPermaLink="true">http://localhost:4000/ideas/2017/10/12/5-ideas/</guid>
 
 
         <category>ideas</category>
@@ -698,8 +698,8 @@ Athelas.com counting blood cells, sentiment analysis, 2-iter DNM.&lt;/p&gt;
 Knowledge is acquired not infused, like you extend a building.  Knowledge to come into your life, logical form and emotional form. Myth of innate ability.&lt;/p&gt;
 </description>
         <pubDate>Tue, 10 Oct 2017 00:00:00 -0700</pubDate>
-        <link>http://willemave.com/blog/2017/10/10/tedx-sf-notes-and-thoughts/</link>
-        <guid isPermaLink="true">http://willemave.com/blog/2017/10/10/tedx-sf-notes-and-thoughts/</guid>
+        <link>http://localhost:4000/blog/2017/10/10/tedx-sf-notes-and-thoughts/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2017/10/10/tedx-sf-notes-and-thoughts/</guid>
 
 
         <category>blog</category>

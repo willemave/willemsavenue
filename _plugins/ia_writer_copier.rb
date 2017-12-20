@@ -18,7 +18,7 @@ class IAWriterCopier
       post_dir = File.join(dest, category, '_posts')
 
       FileUtils.mkdir_p post_dir
-      FileUtils.rm Dir.glob(File.join(src_dir,"*.{#{@markdown_ext}}"))
+      FileUtils.rm Dir.glob(File.join(src_dir, "*.{#{@markdown_ext}}"))
 
       Dir.glob(src_dir) do |file|
         filename = File.basename(file)
@@ -71,5 +71,7 @@ layout: post
 end
 
 Jekyll::Hooks.register :site, :after_reset do |site|
-  IAWriterCopier.new(site.config).copy if site.config[IAWriterCopier::CONFIG_KEY]
+  p site.config['serve']
+  p site.config
+  IAWriterCopier.new(site.config).copy if site.config[IAWriterCopier::CONFIG_KEY] && !site.config['serving']
 end

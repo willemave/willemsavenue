@@ -50,6 +50,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll-paginate-v2
+  jekyll-sass-converter
   jekyll-sitemap
 
 BUNDLED WITH
