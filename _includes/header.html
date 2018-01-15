@@ -1,8 +1,12 @@
-<header class="site-header col-12">
-  <div class="clearfix mt2">
-      <span class="site-title col-left col-6">{{ site.title }}</span>
-      <nav class="site-nav col-right col-6 right-align">
-        {% include navigation.html %}
-      </nav>
-    </div>
+<header class="header">
+  <span class="title">{{ site.title }}</span>
+  <nav class="navigation">
+    {% assign url = page.url|remove:'index.html' %}
+    {% for link in site.navigation %}
+
+    <a class="link {% if url== link.url %} active{% endif %}" href="{{link.url}}"
+       title="{{link.title}}">{{link.text}}</a>
+
+    {% endfor %}
+  </nav>
 </header>

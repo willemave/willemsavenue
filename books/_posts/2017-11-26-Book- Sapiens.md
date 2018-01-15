@@ -1,7 +1,8 @@
 ---
+title: Sapiens
+tags: in_progress philosophy
 layout: post
 ---
-# [In Progress] Sapiens
 
 We are the underdogs, many other predators have had millions of years of improvement, majestic.
 

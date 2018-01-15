@@ -1,7 +1,8 @@
 ---
+title: Payoff hidden logic that shapes our motivations
+tags: complete psychology
 layout: post
 ---
-# Payoff hidden logic that shapes our motivations
 
 Long list of incentives, what does your motivation equation look like?
 
@@ -41,4 +42,3 @@ Goodwill: sometimes you can kill it with measuring or rewarding the wrong thing.
 
 #4 death. 
 What if everything was erased the second you died? That would destroy motivation really quickly, extreme version of Sisyphus test.
-

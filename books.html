@@ -5,12 +5,9 @@ pagination:
   category: books
 ---
 
-<div class="home">
-  <h1>Book Notes</h1>
-    <div class="posts">
+    <div class="post-list">
       {% for post in paginator.posts %}
         {% include post_meta.html %}
         {% include pagination.html %}
       {% endfor %}
     </div>
-</div>

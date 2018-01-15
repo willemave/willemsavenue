@@ -7,22 +7,22 @@ layout: post
 My mother-in-law and wife gave me a great gift, tickets to this years TEDx SF. What follows are some notes and thoughts on the conference. The opportunity to step outside of the day-to-day tech mind space and explore various topics with thought leaders was enthralling. The frontier of what is possible due to ever cheaper technology, scalable distributed learning, and the passion for making a better side in the future is truly inspiring.
 
 **Quentin Hardy**
-Fear and compassion drives social progress?  Where is the fear today about what is next?  
+Do fear and compassion drive social progress?  Where is the fear today about what is next?  
 
 ## Precision
 
 **Atul Butte** 
-Quantified Self: Learning is precise, doesn’t matter if data roughly inaccurate. Feedback cycles between devices collecting and analysis / interpretation, does this have to be a human? Probably. De-identification.  Data visualization of people moving between sickness states, then identify percentage of likely hold.
+Quantified Self: Learning is precise, doesn’t matter if data is roughly inaccurate. Feedback cycles between devices collecting and analysis/interpretation, does this have to be a human? Probably. De-identification.  Data visualization of people moving between sickness states, then identify the percentage of likely held in that state.
 _Idea_: ResistBot style ‘get my medical records’ and forward to another service?
 
 **Andrew Hessel**
-We can program cells today (Autodesk is doing this?) Synthetic yeast project.   Human Genome 2?  Mainly focused around synthetic biology, scientists weren’t sharing. GP-write
+We can program cells today (Autodesk is doing this?) Synthetic yeast project.   Human Genome 2?  Mainly focused on synthetic biology, scientists weren’t sharing. GP-write
 
 **Neil Grimmer**
 Can you personalize food?  Habit company personalizing food? 
 
 **Matthew Sweeney**
-Smart to start with medicine delivery, clear need, urgent and tool to break through regulation.  Cardiac arrest, deliver defibrillators. 
+Smart to start with medicine delivery, clear need, urgent and tool to break through regulation.  Cardiac arrest, deliver defibrillators via drones.
 
 **Sebastian De Halleux**
 Ocean data is scarce, but what are we trying to measure, could it predict hurricanes? Neat approach to solar sensors.
@@ -36,7 +36,7 @@ Plastics usage lifespan, refrigerators to lids for coffee cups. Polystyrene bein
 Golem? Civic? Every tribe can tokenize their economy, award points, incentivize early adopters.  SpaceChain? 
 
 **Arthur Breitman**
-Keynesian game - shilling point - if communication is expensive, they will find a solution.  Like all currencies people have to accept it, abide by the rules, based on the shilling point.  Lots of active research, why? # of Arxiv papers.  How do you move the shilling point? Forks are one approach.  Play for legitimacy, using authority to creating that (Satoshi says).  Forks are like a game of chicken, not an effective way to do governance.  Focus on the common parts, we all have to innovate, how? Has to be merit focused, otherwise you get shilling points.  
+Keynesian game - shilling point - if communication is expensive, they will find a solution.  Like all currencies, people have to accept it, abide by the rules, based on the shilling point.  Lots of active research, why? # of Arxiv papers.  How do you move the shilling point? Forks are one approach.  Play for legitimacy, using authority to creating that (Satoshi says).  Forks are like a game of chicken, not an effective way to do governance.  Focus on the common parts, we all have to innovate, how? Has to be merit focused, otherwise you get shilling points.  
 
 **Mar Cabra**
 CableGate, PanamaPaper, Record numbers of leaks and document dumps. Sharing is not the natural step for journalists.  Federation is the only way to deal with the amount of data that is produced.  Since everything is logged, this just gets harder.  Pulitzer’s prize for Panama Paper, all made possible but the ICIJ.  How do we archive and verify?

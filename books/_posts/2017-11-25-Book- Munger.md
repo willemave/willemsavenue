@@ -1,7 +1,8 @@
 ---
+title: Munger The Complete Investor
+tags: complete investing
 layout: post
 ---
-# Charlie Munger The Complete Investor
 
 Learning from the success and failure of others is the fastest way to get smarter and wiser without a lot of pain.
 

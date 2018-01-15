@@ -1,9 +1,11 @@
-<div class="flex flex-column mb2 py1">
-	<div class="flex items-center">
-  <span class="h3 mr2">{{ post.date | date: site.date_format }}</span>
-  <span><a class="h3" href="{{ post.url | prepend: site.baseurl }}" class="post-link">{{ post.title }}</a></span>
+<div class="post-meta">
+  <div class="post-title">
+    <span><a href="{{ post.url | prepend: site.baseurl }}" class="post-link">{{ post.title }}</a></span>
   </div>
-  <div class="mt1">
-  {{ post.content | truncatewords: 30 | strip_html }}
+  <div class="post-desc">
+    {{ post.content | truncatewords: 30 | strip_html }}
+  </div>
+  <div class="post-date">
+    {{ post.date | date: site.date_format }} {{ post.tags | join:', '}}
   </div>
 </div>

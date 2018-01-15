@@ -1,23 +1,32 @@
 ---
+title: Competing against luck 
+tags: complete management
 layout: post
 ---
-# Competing against luck 
 
-Data helps with product correlation, doesn't tell you why the customers make the purchase decisions they do.  Need thesis and look for help wanted to generate causality.
+Data helps with product correlation, but doesn't tell you why the customers make the purchase decisions they do.  Need a thesis, look for “help wanted” to generate causality of purchase decision.
 
-Some product innovation frameworks are masters of description but failures of prediction. 
+*“Some product innovation frameworks are masters of description but failures of prediction.”*
 
-Disruption theory help us investigate why some markets or companies fail - simple systems did complex ones, cheaper what it was more expensive: looking backwards!
+Disruption theory helps us investigate why some markets or companies fail: simple systems undo complex ones,  expensive solutions become cheaper.
 
-Jobs may exist in multiple categories, margarine and "wetting the bread : mayo", vs "cooking : teflon"
+Jobs may exist in multiple categories, margarine in the light of wetting the bread and mayo, cooking and teflon.
 
-Jobs are not needs descriptions and take work to understand what people want to buy.
+Jobs are not Needs Descriptions and take hard work to understand what people want to buy. Can’t just take some market research and ideate on jobs. 
 
-Progress not product: understanding underlying causation on consumer decision making.  Louis Pasteur (germ theory and the causal mechanisms), need to create hypothesises and then test or look at data to prove or disprove. Much like Learn Product Development.
+*Progress not product* Understanding underlying causation of consumer decision making. Louis Pasteur (germ theory and the causal mechanisms), need to create hypothesises and then test or look at data to prove or disprove. Much like Lean Product Development.
 
-Needs (too general, i.e. “I need to eat”) and guiding principles (I want to be a good dad) are parts of the Job framework but not enough in themselves. Jobs solve obstacles that get in the way of progress towards ones goals in life. Jobs insights are stories, why they did something, not what.  What progress do they want to make (functional, social, or emotional), What are the circumstances (who, what, where, why, when), what obstacles, what compensating behaviors (imperfect solutions), what is the quality bar. Jobs can be things people want to or don't want to do. For example, Facebook is probably competing against cigarettes, and Netflix is competing against sleep. 
+Needs are too general, i.e. “I need to eat”) and guiding principles (i.e. I want to be a good dad) are parts of the Job Framework but not enough in themselves. Jobs solve obstacles that get in the way of progress towards ones goals in life. Jobs insights are stories, why they did something, not what. 
 
-Circumstances matter, have to be open to find things that the theory can't explain, this strengthens it.  Jobs theory doesn't work out if there is no struggle or existing solutions are good enough. This is likely why “kill email” startups usually fail. Efficiency and cost are not jobs in themselves, for example High Frequency Trading is not a solution to a job. Should efficiency and costs can be part of progress?
+* What progress do they want to make, there are functional, social, or emotional? 
+* What are the circumstances, who, what, where, why, and when? 
+* What obstacles? 
+* What compensating behaviors (imperfect solutions)? 
+* What is the quality bar. 
+
+Jobs can be things people want to, or don't want to do. For example, Facebook is probably competing against cigarettes, and Netflix is competing against sleep. 
+
+Circumstances matter. Be open to find things that the theory can't explain, this strengthens it. Jobs theory doesn't work out if there is no struggle, or existing solutions are good enough. **This is likely why “kill email” startups usually fail.** Efficiency and cost are not jobs in themselves, for example High Frequency Trading is not a solution to a job. Should efficiency and costs can be part of progress?
 
 If we don't understand jobs we end up with one-size-fits all solutions, the “One size fits none” problem. If we don't specialize jobs we all end up building similar things. Non-consumers may hire nothing instead of something.
 
@@ -62,9 +71,3 @@ Full picture of progress, competing needs, what they need to fire.
 How to map this out? 
 
 What are they trying accomplish (struggles).  Storyboarding, sketch it out.  What is their desire for something new.  The more realistic it is, emotional.  The first little hire moment.  The story must match the vision for what they want to hire.  The moments of struggle, tradeoff, customers seek progress but are inhibited.  Cluster together stories to see if there are any similarities.  Have a beginners mind, complete picture of the struggle.  Timeline of all the triggers that led to the decision.  The impulse picture that wasn't - purchases never just happen.  
-
-
-
-
-
-

@@ -5,12 +5,10 @@ pagination:
   category: blog
 ---
 
-<div class="home">
-  <h1>Blog</h1>
-    <div class="posts">
-      {% for post in paginator.posts %}
-        {% include post_meta.html %}
-        {% include pagination.html %}
-      {% endfor %}
-    </div>
-</div>
+  <div class="post-list">
+    {% for post in paginator.posts %}
+      {% include post_meta.html %}
+      {% include pagination.html %}
+    {% endfor %}
+  </div>
+

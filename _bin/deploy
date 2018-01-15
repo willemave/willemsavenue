@@ -15,4 +15,4 @@ if [ $? == 0 ]; then
   git push origin `git subtree split --prefix _site master 2> /dev/null`:gh-pages --force
 fi
 
-git reset --hard HEAD~1
+git reset HEAD~1

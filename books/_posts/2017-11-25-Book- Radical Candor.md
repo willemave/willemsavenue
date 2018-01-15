@@ -1,7 +1,8 @@
 ---
+title: Radical Candor
+tags: complete management
 layout: post
 ---
-# Radical Candor
 
 GSD, listen to ideas, listen to each other, clarify, debate, decide, persuade, learn from results.
 

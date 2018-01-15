@@ -1,7 +1,8 @@
 ---
+title: Mastery of Love
+tags: abandoned self
 layout: post
 ---
-# Mastery of Love
 
 We are all masters, we all create personalities, create an image for others.  Whatever we believe comes true.  Anger - pushing problems away.  Action / Reaction.  Emotional body is full of wounds.  We live in continued fear of being hurt.  We create a big denial system.  Push buttons = pushing on wounds.  Education is just the domestication of humans, fear of not getting a reward.  We learn to pretend who we are not.  Image at home, image at school.  Man creates an image of the woman and vice versa.  
 

@@ -6,15 +6,13 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 20 Dec 2017 15:12:58 -0800</pubDate>
-    <lastBuildDate>Wed, 20 Dec 2017 15:12:58 -0800</lastBuildDate>
+    <pubDate>Sun, 14 Jan 2018 22:52:26 -0800</pubDate>
+    <lastBuildDate>Sun, 14 Jan 2018 22:52:26 -0800</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
 
       <item>
-        <title>Book  ray dalio principles</title>
-        <description>&lt;h1 id=&quot;in-progress-ray-dalio-principles&quot;&gt;[In Progress] Ray Dalio Principles&lt;/h1&gt;
-
-&lt;p&gt;“Not knowing taught me more than knowing”&lt;/p&gt;
+        <title>Ray Dalio Principles</title>
+        <description>&lt;p&gt;“Not knowing taught me more than knowing”&lt;/p&gt;
 
 &lt;p&gt;Do we have common principles? Are we clear about them? Do we write them down?&lt;/p&gt;
 
@@ -23,30 +21,57 @@
 &lt;p&gt;Ray’s Principles:&lt;/p&gt;
 
 &lt;p&gt;Q: Does social media provide a fuzzy look into peoples principles?
-&lt;em&gt;“Strive for a lot and fail well - learn but don’t get knocked out“…“How do I know I’m right? Curiosity about why other peoples are different.”&lt;/em&gt;&lt;/p&gt;
+&lt;em&gt;“Strive for a lot and fail well - learn but don’t get knocked out“…“How do I know I’m right? Curiosity about why other peoples views are different.”&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Sounds like Munger’s Mental Models, main focus of helping against inherent decision bias?&lt;/p&gt;
+&lt;p&gt;Sounds like Munger’s Mental Models, main focus of helping adjust against inherent decision bias? Understanding multiple points of view before making a decision.&lt;/p&gt;
 
 &lt;p&gt;Mistakes:
-&lt;em&gt;“Decision making is learned”&lt;/em&gt; - disagree, there are many human biases that drive decision making.
+&lt;em&gt;“Decision making is learned”&lt;/em&gt; - Disagree, there are many human biases that drive decision making. Perhaps biases are learned as well though?
 &lt;em&gt;“While everyone assumes the future is a modified version of the present, it most likely is not”&lt;/em&gt;
 &lt;em&gt;“Better make sense of other people, or other teams or places”…”Most everything has happened before for logical cause and effect reasons”&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Go really deep - Ray’s story about understanding the complete grain + meat + livestock map was super detailed.&lt;/p&gt;
+&lt;p&gt;Go really deep - Ray’s story about understanding the complete grain + meat + livestock value chain and map was super detailed.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;“Always assume you’re missing something”&lt;/em&gt; - we deal with lots of complex systems! Break things down into simpler Machines that you can model (chicken is a small machine that eats feed, so lock in feed future prices).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“Always assume you’re missing something”&lt;/em&gt; We deal with lots of complex systems! Break things down into simpler machines that you can model (chicken is a small machine that eats feed, so lock in feed future prices).&lt;/p&gt;
 
-&lt;p&gt;When you determine of you want, figure out the relative importance.&lt;/p&gt;
+&lt;p&gt;When you determine what you want, figure out the relative importance of each option.&lt;/p&gt;
 
 &lt;p&gt;Debate opinions with smart people with differing opinions.
-Know when not to have an opinion
-System wide principles&lt;/p&gt;
+&lt;strong&gt;Know when not to have an opinion.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Change can only happen if you admit what you’re not good at. There is almost a good path in a case where you need two things and have to choose.&lt;/p&gt;
+&lt;p&gt;Change can only happen if you admit what you’re not good at. When given a choice of two sub-optimal / hard things, there is almost always a better path, think hard about what that could be.&lt;/p&gt;
+
+&lt;p&gt;Best way to test your decisions is to write them down, try to lay them out algorithmically and backtest if possible.&lt;/p&gt;
+
+&lt;p&gt;If something is unusual, look deeper, likely something interesting there, correlate to previous knowledge and opinions.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“If you focus, work hard and are creative, you can have anything, but not everything.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Be curious enough to understand what context causes people to see things differently than you.&lt;/p&gt;
+
+&lt;p&gt;*“Wise people stick to fundamentals during ups and downs.” * Best bet is to make a few uncorrelated bets.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Put honest thoughts on table&lt;/li&gt;
+  &lt;li&gt;Have honest disagreements&lt;/li&gt;
+  &lt;li&gt;Honest ways to find out if disagreements still exist&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;How do you break down mis-understanding between people in a group / team? Ray uses “Baseball cards”. Much of how we think is physiological, being stuck in ones head is dangerous.&lt;/p&gt;
+
+&lt;p&gt;Academic realms are based on consensus, however industry (like finance) are about beating odds.&lt;/p&gt;
+
+&lt;p&gt;Shapers: strong independent thinkers, understand all levels of stack from details to vision, test mental maps, wide array of vision either from themselves or others.&lt;/p&gt;
+
+&lt;p&gt;Heros: cause larger than themselves, shaped by battles and tests&lt;/p&gt;
 </description>
         <pubDate>Tue, 12 Dec 2017 00:00:00 -0800</pubDate>
         <link>http://localhost:4000/books/2017/12/12/Book-Ray-Dalio-Principles/</link>
         <guid isPermaLink="true">http://localhost:4000/books/2017/12/12/Book-Ray-Dalio-Principles/</guid>
+
+        <category>in_progress</category>
+
+        <category>self</category>
 
 
         <category>books</category>
@@ -54,10 +79,8 @@ System wide principles&lt;/p&gt;
       </item>
 
       <item>
-        <title>Book  selections of</title>
-        <description>&lt;h1 id=&quot;in-progress-selections-from-science-and-sanity&quot;&gt;[In Progress] Selections from Science and Sanity&lt;/h1&gt;
-
-&lt;p&gt;We are organisms that abstract, meaning is context driven and terms are multi-ordinal. Language allows for passing down culture and knowledge and therefore ‘time binding’, it is a function of the brain, as in derived from language. Limitations of language (representations), all statements probable in varying degrees.
+        <title>Selections from Science and Sanity</title>
+        <description>&lt;p&gt;We are organisms that abstract, meaning is context driven and terms are multi-ordinal. Language allows for passing down culture and knowledge and therefore ‘time binding’, it is a function of the brain, as in derived from language. Limitations of language (representations), all statements probable in varying degrees.
 Generalizations on civilization started with insufficient data (animal behaviors vs man behaviors). Infantilism still prevails, still primitive semantics, technology seems to accelerate these primitive behaviors.&lt;/p&gt;
 
 </description>
@@ -65,16 +88,18 @@ Generalizations on civilization started with insufficient data (animal behaviors
         <link>http://localhost:4000/books/2017/12/09/Book-Selections-of/</link>
         <guid isPermaLink="true">http://localhost:4000/books/2017/12/09/Book-Selections-of/</guid>
 
+        <category>in_progress</category>
+
+        <category>self</category>
+
 
         <category>books</category>
 
       </item>
 
       <item>
-        <title>Book  sapiens</title>
-        <description>&lt;h1 id=&quot;in-progress-sapiens&quot;&gt;[In Progress] Sapiens&lt;/h1&gt;
-
-&lt;p&gt;We are the underdogs, many other predators have had millions of years of improvement, majestic.&lt;/p&gt;
+        <title>Sapiens</title>
+        <description>&lt;p&gt;We are the underdogs, many other predators have had millions of years of improvement, majestic.&lt;/p&gt;
 
 &lt;p&gt;Hard to have both intestines and brains as they take lots of energy, fire help optimize this. Fire was strong leverage against other animals.&lt;/p&gt;
 
@@ -90,16 +115,18 @@ Generalizations on civilization started with insufficient data (animal behaviors
         <link>http://localhost:4000/books/2017/11/26/Book-Sapiens/</link>
         <guid isPermaLink="true">http://localhost:4000/books/2017/11/26/Book-Sapiens/</guid>
 
+        <category>in_progress</category>
+
+        <category>philosophy</category>
+
 
         <category>books</category>
 
       </item>
 
       <item>
-        <title>Book  radical candor</title>
-        <description>&lt;h1 id=&quot;radical-candor&quot;&gt;Radical Candor&lt;/h1&gt;
-
-&lt;p&gt;GSD, listen to ideas, listen to each other, clarify, debate, decide, persuade, learn from results.&lt;/p&gt;
+        <title>Radical Candor</title>
+        <description>&lt;p&gt;GSD, listen to ideas, listen to each other, clarify, debate, decide, persuade, learn from results.&lt;/p&gt;
 
 &lt;p&gt;Listen&lt;/p&gt;
 &lt;ul&gt;
@@ -255,16 +282,18 @@ All Hands&lt;/p&gt;
         <link>http://localhost:4000/books/2017/11/25/Book-Radical-Candor/</link>
         <guid isPermaLink="true">http://localhost:4000/books/2017/11/25/Book-Radical-Candor/</guid>
 
+        <category>complete</category>
+
+        <category>management</category>
+
 
         <category>books</category>
 
       </item>
 
       <item>
-        <title>Book  payoff hidden logic that shapes our motivations</title>
-        <description>&lt;h1 id=&quot;payoff-hidden-logic-that-shapes-our-motivations&quot;&gt;Payoff hidden logic that shapes our motivations&lt;/h1&gt;
-
-&lt;p&gt;Long list of incentives, what does your motivation equation look like?&lt;/p&gt;
+        <title>Payoff hidden logic that shapes our motivations</title>
+        <description>&lt;p&gt;Long list of incentives, what does your motivation equation look like?&lt;/p&gt;
 
 &lt;p&gt;Motivation includes elements not related to joy, it often drives us to achievements that are difficult, painful, challenging.&lt;/p&gt;
 
@@ -302,11 +331,14 @@ good relationships aren’t transactional;&lt;/p&gt;
 
 &lt;p&gt;#4 death.
 What if everything was erased the second you died? That would destroy motivation really quickly, extreme version of Sisyphus test.&lt;/p&gt;
-
 </description>
         <pubDate>Sat, 25 Nov 2017 00:00:00 -0800</pubDate>
         <link>http://localhost:4000/books/2017/11/25/Book-Payoff-hidden-logic-that-shapes-our-motivations/</link>
         <guid isPermaLink="true">http://localhost:4000/books/2017/11/25/Book-Payoff-hidden-logic-that-shapes-our-motivations/</guid>
+
+        <category>complete</category>
+
+        <category>psychology</category>
 
 
         <category>books</category>
@@ -314,10 +346,8 @@ What if everything was erased the second you died? That would destroy motivation
       </item>
 
       <item>
-        <title>Book  munger</title>
-        <description>&lt;h1 id=&quot;charlie-munger-the-complete-investor&quot;&gt;Charlie Munger The Complete Investor&lt;/h1&gt;
-
-&lt;p&gt;Learning from the success and failure of others is the fastest way to get smarter and wiser without a lot of pain.&lt;/p&gt;
+        <title>Munger The Complete Investor</title>
+        <description>&lt;p&gt;Learning from the success and failure of others is the fastest way to get smarter and wiser without a lot of pain.&lt;/p&gt;
 
 &lt;p&gt;Part of the benefit of creating a checklist is the process of writing down your ideas.&lt;/p&gt;
 
@@ -504,16 +534,18 @@ Intelligent people make decisions based on opportunity costs—in other words, i
         <link>http://localhost:4000/books/2017/11/25/Book-Munger/</link>
         <guid isPermaLink="true">http://localhost:4000/books/2017/11/25/Book-Munger/</guid>
 
+        <category>complete</category>
+
+        <category>investing</category>
+
 
         <category>books</category>
 
       </item>
 
       <item>
-        <title>Book  mastery of love</title>
-        <description>&lt;h1 id=&quot;mastery-of-love&quot;&gt;Mastery of Love&lt;/h1&gt;
-
-&lt;p&gt;We are all masters, we all create personalities, create an image for others.  Whatever we believe comes true.  Anger - pushing problems away.  Action / Reaction.  Emotional body is full of wounds.  We live in continued fear of being hurt.  We create a big denial system.  Push buttons = pushing on wounds.  Education is just the domestication of humans, fear of not getting a reward.  We learn to pretend who we are not.  Image at home, image at school.  Man creates an image of the woman and vice versa.&lt;/p&gt;
+        <title>Mastery of Love</title>
+        <description>&lt;p&gt;We are all masters, we all create personalities, create an image for others.  Whatever we believe comes true.  Anger - pushing problems away.  Action / Reaction.  Emotional body is full of wounds.  We live in continued fear of being hurt.  We create a big denial system.  Push buttons = pushing on wounds.  Education is just the domestication of humans, fear of not getting a reward.  We learn to pretend who we are not.  Image at home, image at school.  Man creates an image of the woman and vice versa.&lt;/p&gt;
 
 &lt;p&gt;In the beginning we’re tuned to explore, emotional system has an alarm system of fear.   We learn to be emotional based on environment. Sense of injustice i.e. If parents unfairly hurt you.  Before these you were completely healthy.  Loose innocence, slowly goes away.  We release emotional poison on other people.  We are always judging everyone, ourselves, I’m not good enough, etc.  We will never be perfect, never good enough, always something a judge will reject.  Only punishment only suffering.  No one in the whole world will abuse you more than yourself.&lt;/p&gt;
 
@@ -525,30 +557,42 @@ Intelligent people make decisions based on opportunity costs—in other words, i
         <link>http://localhost:4000/books/2017/11/25/Book-Mastery-of-Love/</link>
         <guid isPermaLink="true">http://localhost:4000/books/2017/11/25/Book-Mastery-of-Love/</guid>
 
+        <category>abandoned</category>
+
+        <category>self</category>
+
 
         <category>books</category>
 
       </item>
 
       <item>
-        <title>Book  competing against luck</title>
-        <description>&lt;h1 id=&quot;competing-against-luck&quot;&gt;Competing against luck&lt;/h1&gt;
+        <title>Competing against luck</title>
+        <description>&lt;p&gt;Data helps with product correlation, but doesn’t tell you why the customers make the purchase decisions they do.  Need a thesis, look for “help wanted” to generate causality of purchase decision.&lt;/p&gt;
 
-&lt;p&gt;Data helps with product correlation, doesn’t tell you why the customers make the purchase decisions they do.  Need thesis and look for help wanted to generate causality.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“Some product innovation frameworks are masters of description but failures of prediction.”&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Some product innovation frameworks are masters of description but failures of prediction.&lt;/p&gt;
+&lt;p&gt;Disruption theory helps us investigate why some markets or companies fail: simple systems undo complex ones,  expensive solutions become cheaper.&lt;/p&gt;
 
-&lt;p&gt;Disruption theory help us investigate why some markets or companies fail - simple systems did complex ones, cheaper what it was more expensive: looking backwards!&lt;/p&gt;
+&lt;p&gt;Jobs may exist in multiple categories, margarine in the light of wetting the bread and mayo, cooking and teflon.&lt;/p&gt;
 
-&lt;p&gt;Jobs may exist in multiple categories, margarine and “wetting the bread : mayo”, vs “cooking : teflon”&lt;/p&gt;
+&lt;p&gt;Jobs are not Needs Descriptions and take hard work to understand what people want to buy. Can’t just take some market research and ideate on jobs.&lt;/p&gt;
 
-&lt;p&gt;Jobs are not needs descriptions and take work to understand what people want to buy.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Progress not product&lt;/em&gt; Understanding underlying causation of consumer decision making. Louis Pasteur (germ theory and the causal mechanisms), need to create hypothesises and then test or look at data to prove or disprove. Much like Lean Product Development.&lt;/p&gt;
 
-&lt;p&gt;Progress not product: understanding underlying causation on consumer decision making.  Louis Pasteur (germ theory and the causal mechanisms), need to create hypothesises and then test or look at data to prove or disprove. Much like Learn Product Development.&lt;/p&gt;
+&lt;p&gt;Needs are too general, i.e. “I need to eat”) and guiding principles (i.e. I want to be a good dad) are parts of the Job Framework but not enough in themselves. Jobs solve obstacles that get in the way of progress towards ones goals in life. Jobs insights are stories, why they did something, not what.&lt;/p&gt;
 
-&lt;p&gt;Needs (too general, i.e. “I need to eat”) and guiding principles (I want to be a good dad) are parts of the Job framework but not enough in themselves. Jobs solve obstacles that get in the way of progress towards ones goals in life. Jobs insights are stories, why they did something, not what.  What progress do they want to make (functional, social, or emotional), What are the circumstances (who, what, where, why, when), what obstacles, what compensating behaviors (imperfect solutions), what is the quality bar. Jobs can be things people want to or don’t want to do. For example, Facebook is probably competing against cigarettes, and Netflix is competing against sleep.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;What progress do they want to make, there are functional, social, or emotional?&lt;/li&gt;
+  &lt;li&gt;What are the circumstances, who, what, where, why, and when?&lt;/li&gt;
+  &lt;li&gt;What obstacles?&lt;/li&gt;
+  &lt;li&gt;What compensating behaviors (imperfect solutions)?&lt;/li&gt;
+  &lt;li&gt;What is the quality bar.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Circumstances matter, have to be open to find things that the theory can’t explain, this strengthens it.  Jobs theory doesn’t work out if there is no struggle or existing solutions are good enough. This is likely why “kill email” startups usually fail. Efficiency and cost are not jobs in themselves, for example High Frequency Trading is not a solution to a job. Should efficiency and costs can be part of progress?&lt;/p&gt;
+&lt;p&gt;Jobs can be things people want to, or don’t want to do. For example, Facebook is probably competing against cigarettes, and Netflix is competing against sleep.&lt;/p&gt;
+
+&lt;p&gt;Circumstances matter. Be open to find things that the theory can’t explain, this strengthens it. Jobs theory doesn’t work out if there is no struggle, or existing solutions are good enough. &lt;strong&gt;This is likely why “kill email” startups usually fail.&lt;/strong&gt; Efficiency and cost are not jobs in themselves, for example High Frequency Trading is not a solution to a job. Should efficiency and costs can be part of progress?&lt;/p&gt;
 
 &lt;p&gt;If we don’t understand jobs we end up with one-size-fits all solutions, the “One size fits none” problem. If we don’t specialize jobs we all end up building similar things. Non-consumers may hire nothing instead of something.&lt;/p&gt;
 
@@ -593,11 +637,14 @@ What circumstances do they use the products?  What does this reveal about the na
 &lt;p&gt;How to map this out?&lt;/p&gt;
 
 &lt;p&gt;What are they trying accomplish (struggles).  Storyboarding, sketch it out.  What is their desire for something new.  The more realistic it is, emotional.  The first little hire moment.  The story must match the vision for what they want to hire.  The moments of struggle, tradeoff, customers seek progress but are inhibited.  Cluster together stories to see if there are any similarities.  Have a beginners mind, complete picture of the struggle.  Timeline of all the triggers that led to the decision.  The impulse picture that wasn’t - purchases never just happen.&lt;/p&gt;
-
 </description>
         <pubDate>Sat, 25 Nov 2017 00:00:00 -0800</pubDate>
         <link>http://localhost:4000/books/2017/11/25/Book-Competing-against-luck/</link>
         <guid isPermaLink="true">http://localhost:4000/books/2017/11/25/Book-Competing-against-luck/</guid>
+
+        <category>complete</category>
+
+        <category>management</category>
 
 
         <category>books</category>
@@ -632,22 +679,22 @@ What circumstances do they use the products?  What does this reveal about the na
 &lt;p&gt;My mother-in-law and wife gave me a great gift, tickets to this years TEDx SF. What follows are some notes and thoughts on the conference. The opportunity to step outside of the day-to-day tech mind space and explore various topics with thought leaders was enthralling. The frontier of what is possible due to ever cheaper technology, scalable distributed learning, and the passion for making a better side in the future is truly inspiring.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Quentin Hardy&lt;/strong&gt;
-Fear and compassion drives social progress?  Where is the fear today about what is next?&lt;/p&gt;
+Do fear and compassion drive social progress?  Where is the fear today about what is next?&lt;/p&gt;
 
 &lt;h2 id=&quot;precision&quot;&gt;Precision&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;Atul Butte&lt;/strong&gt;
-Quantified Self: Learning is precise, doesn’t matter if data roughly inaccurate. Feedback cycles between devices collecting and analysis / interpretation, does this have to be a human? Probably. De-identification.  Data visualization of people moving between sickness states, then identify percentage of likely hold.
+Quantified Self: Learning is precise, doesn’t matter if data is roughly inaccurate. Feedback cycles between devices collecting and analysis/interpretation, does this have to be a human? Probably. De-identification.  Data visualization of people moving between sickness states, then identify the percentage of likely held in that state.
 &lt;em&gt;Idea&lt;/em&gt;: ResistBot style ‘get my medical records’ and forward to another service?&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Andrew Hessel&lt;/strong&gt;
-We can program cells today (Autodesk is doing this?) Synthetic yeast project.   Human Genome 2?  Mainly focused around synthetic biology, scientists weren’t sharing. GP-write&lt;/p&gt;
+We can program cells today (Autodesk is doing this?) Synthetic yeast project.   Human Genome 2?  Mainly focused on synthetic biology, scientists weren’t sharing. GP-write&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Neil Grimmer&lt;/strong&gt;
 Can you personalize food?  Habit company personalizing food?&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Matthew Sweeney&lt;/strong&gt;
-Smart to start with medicine delivery, clear need, urgent and tool to break through regulation.  Cardiac arrest, deliver defibrillators.&lt;/p&gt;
+Smart to start with medicine delivery, clear need, urgent and tool to break through regulation.  Cardiac arrest, deliver defibrillators via drones.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Sebastian De Halleux&lt;/strong&gt;
 Ocean data is scarce, but what are we trying to measure, could it predict hurricanes? Neat approach to solar sensors.&lt;/p&gt;
@@ -660,7 +707,7 @@ Plastics usage lifespan, refrigerators to lids for coffee cups. Polystyrene bein
 Golem? Civic? Every tribe can tokenize their economy, award points, incentivize early adopters.  SpaceChain?&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Arthur Breitman&lt;/strong&gt;
-Keynesian game - shilling point - if communication is expensive, they will find a solution.  Like all currencies people have to accept it, abide by the rules, based on the shilling point.  Lots of active research, why? # of Arxiv papers.  How do you move the shilling point? Forks are one approach.  Play for legitimacy, using authority to creating that (Satoshi says).  Forks are like a game of chicken, not an effective way to do governance.  Focus on the common parts, we all have to innovate, how? Has to be merit focused, otherwise you get shilling points.&lt;/p&gt;
+Keynesian game - shilling point - if communication is expensive, they will find a solution.  Like all currencies, people have to accept it, abide by the rules, based on the shilling point.  Lots of active research, why? # of Arxiv papers.  How do you move the shilling point? Forks are one approach.  Play for legitimacy, using authority to creating that (Satoshi says).  Forks are like a game of chicken, not an effective way to do governance.  Focus on the common parts, we all have to innovate, how? Has to be merit focused, otherwise you get shilling points.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Mar Cabra&lt;/strong&gt;
 CableGate, PanamaPaper, Record numbers of leaks and document dumps. Sharing is not the natural step for journalists.  Federation is the only way to deal with the amount of data that is produced.  Since everything is logged, this just gets harder.  Pulitzer’s prize for Panama Paper, all made possible but the ICIJ.  How do we archive and verify?&lt;/p&gt;
