@@ -16,3 +16,5 @@ if [ $? == 0 ]; then
 fi
 
 git reset HEAD~1
+
+git clean -fdx _site
