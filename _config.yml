@@ -40,7 +40,7 @@ show_dir_listing: false
 
 
 # Google analytics
-google_analytics:
+google_analytics: UA-22360258-2
 
 # Optional features
 animated:           false

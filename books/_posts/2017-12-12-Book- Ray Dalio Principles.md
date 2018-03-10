@@ -53,4 +53,23 @@ Academic realms are based on consensus, however industry (like finance) are abou
 
 Shapers: strong independent thinkers, understand all levels of stack from details to vision, test mental maps, wide array of vision either from themselves or others.
 
-Heros: cause larger than themselves, shaped by battles and tests
+Heros: cause larger than themselves, shaped by battles and tests.
+
+1.1 hyper realist - choose your dreams wisely. What do you want to be?
+1.2 truth - accurate reality
+1.4 reality optimizes for the whole. Realty is given to us from nature.
+Top down, think theory first, vs observation of bottom up. See where there is a disconnect.
+Don't let how you think things should be get in the way of how things are.
+Good needs to optimize for the best for the whole.
+1.5 Individual incentives must align with the whole. Rapid trial and error. Put others ahead of myself? choice will happen.
+Pain is healthy, pushes you outside comfort zone. Adapt quickly.
+1.8 higher order consequences are important, ie. Working out sucks in first order, much better in second order. 
+1.10 look at the machine below you. No body can do everything perfectly. Ask people for help. Don't blame bad outcomes for anyone but yourself.
+
+2.1 Goals, identify, Diagnose, designing, executing. Don't confuse goals with desires. Great expectations create great capabilities.
+2.2 identify and RCA for your problems, find problems not causes. Don't look for proximate problems. Many path, just find one. Write down your plan, didn't take a lot of time. Design before. 
+
+Find one big thing thats holding you back.
+Humility is key, mental maps as will.
+
+Ego barrier and blind spots. Lower level amygmadela fights with higher level you.
