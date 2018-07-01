@@ -49,3 +49,15 @@ Lead must force him to keep reading, humor, surprise, unusual idea, interesting 
 
 #### Writing about People
 Stories in peoples own words are powerful. Their words are always better then your words. 
+
+#### Interviewing
+Be prepared, take notes, do your homework. **Be a writer, write things down.** Don’t use a tape recorder, unless necessary.
+
+#### Science and Technology
+Describing how a process works is valuable for two reasons. It forces you to make sure you know how it works. Then it forces you to take the reader through the same sequence of ideas and deductions that made the process clear to you. Imagine science writing as an upside-down pyramid. Start at the bottom with the one fact a reader must know before he can learn any more. The second sentence broadens what was stated first. First fact can be small and relatable, doesn’t have to be groundbreaking. Reduce abstract principles to something that people can visualizE and relate.
+
+#### Business Writing
+clarity, simplicity, brevity and humanity. Avoid being pedantic and vague, avoid pompous generalizations. There is a deep yearning for human contact, don’t abstract it away in “business communications”. Avoid dead nouns like “capacity planning techniques” — what are capacity planning techniques? Whose capacity? By whom? If a customer has to stop and translate the sentence, you’ve failed. Actually a simple style is the result of hard work and hard thinking; a muddled style reflects a muddled thinker or a person too arrogant, or too dumb, or too lazy to organize his thoughts.
+
+### Attitude
+Don’t alter your voice to fit your subject. writer sounds confident; he’s not trying to ingratiate himself with the reader. Avoid breezy style, overly open, wordy, too “relatable” to the reader. 

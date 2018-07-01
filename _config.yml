@@ -72,8 +72,6 @@ iawritercopier:
 navigation:
   - text: Home
     url: /
-  - text: Ideas
-    url: /ideas/
   - text: Books
     url: /books/
   - text: About

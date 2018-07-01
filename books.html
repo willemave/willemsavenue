@@ -4,10 +4,12 @@ pagination:
   enabled: true
   category: books
 ---
-
+    <div class="post-header">
+      <h2>Currently reading</h2>
+    </div>
     <div class="post-list">
       {% for post in paginator.posts %}
         {% include post_meta.html %}
-        {% include pagination.html %}
       {% endfor %}
+      {% include pagination.html %}
     </div>
