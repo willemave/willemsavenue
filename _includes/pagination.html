@@ -1,3 +1,4 @@
+{% if paginator.total_pages > 1 %}
 <div class="pagination clearfix mb1 mt2">
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
@@ -9,3 +10,4 @@
   {% else %}
   {% endif %}
 </div>
+{% endif %}
