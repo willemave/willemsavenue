@@ -1,7 +1,8 @@
 ---
+title: The Book of Why
+tags: in_progress self
 layout: post
 ---
-Book: the book of why
 
 No mathematical equations for Cause and Effect. Statistics pushed this aside, correlation is not causation. Path Analysis starts to help here. So does Casual Diagrams.
 
