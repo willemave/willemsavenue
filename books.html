@@ -4,12 +4,33 @@ pagination:
   enabled: true
   category: books
 ---
-    <div class="post-header">
-      <h2>Currently reading</h2>
-    </div>
-    <div class="post-list">
-      {% for post in paginator.posts %}
-        {% include post_meta.html %}
+{% if paginator.page == 1 %}
+<div class="header">
+  <h2>Currently reading</h2>
+</div>
+
+  <div class="post-list">
+    {% for post in site.posts %}
+      {% for tag in post.tags %}
+        {% if tag == "in_progress" %}
+          {% include post_meta.html %}
+        {% endif %}
       {% endfor %}
-      {% include pagination.html %}
-    </div>
+    {% endfor %}
+  </div>
+{% endif %}
+
+<div class="header">
+  <h2>Finished / Abandoned</h2>
+</div>
+
+<div class="post-list">
+  {% for post in paginator.posts %}
+    {% for tag in post.tags %}
+      {% if tag != "in_progress" %}
+        {% include post_meta.html %}
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+  {% include pagination.html %}
+</div>
