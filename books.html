@@ -5,32 +5,42 @@ pagination:
   category: books
 ---
 {% if paginator.page == 1 %}
-<div class="header">
-  <h2>Currently reading</h2>
+<div class="post-header">
+  <h2>Reading</h2>
 </div>
 
   <div class="post-list">
-    {% for post in site.posts %}
-      {% for tag in post.tags %}
-        {% if tag == "in_progress" %}
-          {% include post_meta.html %}
-        {% endif %}
-      {% endfor %}
+      {% for post in paginator.posts %}
+    {% assign show_post = false %}
+    {% for tag in post.tags %}
+      {% if tag == "in_progress" %}
+        {% assign show_post = true  %}
+     {%  endif %}
     {% endfor %}
+     {% if show_post %}
+        {% include post_list.html %}
+        {% assign show_post = false %}
+      {% endif %}
+  {% endfor %}
   </div>
 {% endif %}
 
-<div class="header">
-  <h2>Finished / Abandoned</h2>
+<div class="post-header">
+  <h2>Finished</h2>
 </div>
 
 <div class="post-list">
   {% for post in paginator.posts %}
+    {% assign show_post = false %}
     {% for tag in post.tags %}
-      {% if tag != "in_progress" %}
-        {% include post_meta.html %}
-      {% endif %}
+      {% if tag != "in_progress"  %}
+        {% assign show_post = true  %}
+     {%  endif %}
     {% endfor %}
+     {% if show_post %}
+        {% include post_list.html %}
+        {% assign show_post = false %}
+      {% endif %}
   {% endfor %}
   {% include pagination.html %}
 </div>

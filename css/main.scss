@@ -69,6 +69,74 @@ img {
   font-size: $text-header;
 }
 
+.title {
+  font-size: $text-header;
+
+  @include for-desktop-up {
+    font-size: $text-header;
+  }
+}
+
+.header {
+  margin: 0.5em 0 2em 0;
+  vertical-align: middle;
+  height: 2em;
+
+  @include for-tablet-up {
+    margin: 0.25em 0 0 0;
+  }
+
+  @include for-desktop-up {
+    margin: 0.25em 0 0 0;
+  }
+}
+
+.navigation {
+  float: none;
+  margin: 0.25em 0 0 0;
+
+  .active {
+    border-bottom: $hover;
+  }
+
+  @include for-tablet-up {
+    float: right;
+    margin: 0.5em 0 0 0;
+  }
+
+  @include for-desktop-up {
+    float: right;
+    margin: 0.5em 0 0 0;
+  }
+
+  > .link {
+    margin: 0 .5em 0 0;
+    display: inline;
+  }
+}
+
+.content {
+  margin: 1em 0 0 0;
+}
+
+a,
+a:link,
+a:active,
+a:visited {
+  color: #107896;
+  text-decoration: none;
+}
+
+a:hover {
+  border-bottom: $hover;
+  color: #107896;
+  text-decoration: none;
+}
+
+
+/* POST STYLES */
+
+
 .post-list {
   margin: 3em 0 0 0;
   list-style: none;
@@ -133,7 +201,8 @@ img {
 
 }
 
-.header {
+.post-header {
+  font-size: $text-meta;
   margin: 0.5em 0 2em 0;
   vertical-align: middle;
   height: 2em;
@@ -147,51 +216,7 @@ img {
   }
 }
 
-.title {
-  font-size: $text-header;
-
-  @include for-desktop-up {
-    font-size: $text-header;
-  }
-}
-
-.navigation {
-  float: none;
-  margin: 0.25em 0 0 0;
-
-  .active {
-    border-bottom: $hover;
-  }
-
-  @include for-tablet-up {
-    float: right;
-    margin: 0.5em 0 0 0;
-  }
-
-  @include for-desktop-up {
-    float: right;
-    margin: 0.5em 0 0 0;
-  }
-
-  > .link {
-    margin: 0 .5em 0 0;
-    display: inline;
-  }
-}
-
-a,
-a:link,
-a:active,
-a:visited {
-  color: #107896;
-  text-decoration: none;
-}
-
-a:hover {
-  border-bottom: $hover;
-  color: #107896;
-  text-decoration: none;
-}
+/* clearfix */
 
 .clearfix:before,
 .clearfix:after {
