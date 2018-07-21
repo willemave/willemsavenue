@@ -159,7 +159,7 @@ a:hover {
 .post-meta {
   color: $light-grey;
   font-size: $text-meta;
-  margin: 0 0 1.5em 0;
+  display: block;
 }
 
 .post-link {
@@ -190,29 +190,24 @@ a:hover {
   }
 }
 
-.post-header {
-  margin: 2em 0 0 0;
-}
-
 .post-header > h2 {
   font-size: $text-header;
   color: $black;
   margin: 0 0 0 0;
-
 }
 
 .post-header {
   font-size: $text-meta;
-  margin: 0.5em 0 2em 0;
   vertical-align: middle;
-  height: 2em;
+  margin: 0.25em 0 0.5em 0;
+  display: block;
 
   @include for-tablet-up {
-    margin: 0.25em 0 0 0;
+    margin: 0.5em 0 2em 0;
   }
 
   @include for-desktop-up {
-    margin: 0.25em 0 0 0;
+    margin: 0.5em 0 2em 0;
   }
 }
 
