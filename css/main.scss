@@ -93,25 +93,24 @@ img {
 
 .navigation {
   float: none;
-  margin: 0.25em 0 0 0;
-
-  .active {
-    border-bottom: $hover;
-  }
 
   @include for-tablet-up {
     float: right;
-    margin: 0.5em 0 0 0;
+    margin: 5px 0 0 0;
   }
 
   @include for-desktop-up {
     float: right;
-    margin: 0.5em 0 0 0;
+    margin: 5px 0 0 0;
   }
 
   > .link {
     margin: 0 .5em 0 0;
     display: inline;
+  }
+
+  .active {
+    border-bottom: $hover;
   }
 }
 
@@ -138,21 +137,17 @@ a:hover {
 
 
 .post-list {
-  margin: 3em 0 0 0;
+  margin: 0 0 3em 0;
   list-style: none;
 
   @include for-tablet-up {
-    margin: 2em 0 0 0;
+    margin: 0 0 2em 0;
     font-size: 16px;
   }
 
   @include for-desktop-up {
-    margin: 2em 0 0 0;
+    margin: 0 0 2em 0;
     font-size: 16px;
-  }
-
-  > li {
-    margin-bottom: 1rem;
   }
 }
 
@@ -203,11 +198,11 @@ a:hover {
   display: block;
 
   @include for-tablet-up {
-    margin: 0.5em 0 2em 0;
+    margin: 0.5em 0 1em 0;
   }
 
   @include for-desktop-up {
-    margin: 0.5em 0 2em 0;
+    margin: 0.5em 0 1em 0;
   }
 }
 

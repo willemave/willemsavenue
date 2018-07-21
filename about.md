@@ -6,7 +6,7 @@ tags: about
 
 Willem Avé
 
-TBD.
+
 
 [Github](https://github.com/willemave)
 [LinkedIn](https://www.linkedin.com/in/willemave)
