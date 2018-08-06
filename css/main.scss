@@ -11,8 +11,9 @@ $blue: #107896;
 $black: #000;
 $hover: 2px solid $blue;
 $text-header: 1.35em;
+$text-list-header: 1.1em;
 $text-body: .9em;
-$text-meta: .8em;
+$text-meta: .7em;
 
 @mixin for-tablet-up {
   @media (min-width: 31.25em) {
@@ -142,13 +143,16 @@ a:hover {
 
   @include for-tablet-up {
     margin: 0 0 2em 0;
-    font-size: 16px;
   }
 
   @include for-desktop-up {
     margin: 0 0 2em 0;
-    font-size: 16px;
   }
+}
+
+.post-list-item {
+  margin: 0 0 1em 0;
+  list-style: none;
 }
 
 .post-meta {
@@ -162,13 +166,13 @@ a:hover {
 
 .post-desc {
   color: $dark-grey;
-  font-size: $text-body;
+  font-size: $text-meta;
   margin: 0 0 0.25em 0;
 }
 
 .post-title {
   display: block;
-  font-size: $text-header;
+  font-size: $text-list-header;
   margin: 0 0 0.25em 0;
 }
 
@@ -192,7 +196,6 @@ a:hover {
 }
 
 .post-header {
-  font-size: $text-meta;
   vertical-align: middle;
   margin: 0.25em 0 0.5em 0;
   display: block;
