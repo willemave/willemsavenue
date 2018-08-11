@@ -5,9 +5,9 @@ pagination:
   category: blog
 ---
 
-    <div class="post-list">
-      {% for post in paginator.posts %}
-        {% include post_list.html %}
-      {% endfor %}
-      {% include pagination.html %}
-    </div>
+<div class="post-list">
+  {% for post in paginator.posts %}
+    {% include post_list.html %}
+  {% endfor %}
+  {% include pagination.html %}
+</div>
