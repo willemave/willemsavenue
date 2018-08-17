@@ -3,13 +3,14 @@
 
 @charset "utf-8";
 
-$font-stack: Helvetica Neue, Helvetica sans-serif;
+$font-stack: Arial, Helvetica, sans-serif;
 $primary-color: #333;
-$dark-grey: #333;
-$light-grey: #ccc;
-$blue: #107896;
-$black: #000;
-$hover: 2px solid $blue;
+$dark-grey: #090E3B;
+$light-grey: #AAAAAA;
+$background-grey: #FFFFFF;
+$link: #0074D9;
+$black: #111111;
+$hover: 2px solid $link;
 $text-header: 1.35em;
 $text-list-header: 1.1em;
 $text-body: .9em;
@@ -29,7 +30,8 @@ $text-meta: .7em;
 
 body {
   font-size: 16px;
-
+  background-color: $background-grey;
+  line-height: 1.25;
   // slightly closer
   @include for-tablet-up {
     font-size: 17px;
@@ -123,13 +125,13 @@ a,
 a:link,
 a:active,
 a:visited {
-  color: #107896;
+  color: $link;
   text-decoration: none;
 }
 
 a:hover {
   border-bottom: $hover;
-  color: #107896;
+  color: $link;
   text-decoration: none;
 }
 
@@ -185,6 +187,7 @@ a:hover {
 .post-content {
   font-size: $text-body;
   color: $black;
+  line-height: 1.4;
   h1, h2 {
     font-size: 1.25em;
   }
@@ -197,7 +200,6 @@ a:hover {
 }
 
 .post-header {
-  vertical-align: middle;
   margin: 0.25em 0 0.5em 0;
   display: block;
 
@@ -208,6 +210,10 @@ a:hover {
   @include for-desktop-up {
     margin: 0.5em 0 1em 0;
   }
+}
+
+.pagination {
+  font-size: $text-meta;
 }
 
 /* clearfix */

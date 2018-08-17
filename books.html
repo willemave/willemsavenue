@@ -4,7 +4,11 @@ pagination:
   enabled: true
   category: books
 ---
-<div class="post-note">Notes for non-fiction books I'm currently reading. Warning: These are in raw form.</div>
+<div class="post-note">Notes for non-fiction books I'm currently reading.
+<span class="post-meta">Warning: These are in raw form.</span>
+</div>
+
+
 {% if paginator.page == 1 %}
 
   <div class="post-list">
@@ -23,8 +27,8 @@ pagination:
   </div>
 {% endif %}
 
-<div class="post-header">
-  <h2>Finished</h2>
+<div class="post-note">
+  Finished
 </div>
 
 <div class="post-list">
