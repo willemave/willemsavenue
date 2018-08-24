@@ -1,21 +1,20 @@
 ---
 ---
-
 @charset "utf-8";
-
-$font-stack: Arial, Helvetica, sans-serif;
+$font-stack: Arial,
+Helvetica,
+sans-serif;
 $primary-color: #333;
 $dark-grey: #090E3B;
 $light-grey: #AAAAAA;
 $background-grey: #FFFFFF;
-$link: #0074D9;
+$link: rgb(27, 109, 190);
 $black: #111111;
 $hover: 2px solid $link;
 $text-header: 1.35em;
 $text-list-header: 1.1em;
 $text-body: .9em;
 $text-meta: .7em;
-
 @mixin for-tablet-up {
   @media (min-width: 31.25em) {
     @content;
@@ -31,94 +30,13 @@ $text-meta: .7em;
 body {
   font-size: 16px;
   background-color: $background-grey;
-  line-height: 1.25;
-  // slightly closer
+  line-height: 1.25; // slightly closer
   @include for-tablet-up {
     font-size: 17px;
-  }
-
-  // larger face is farther away
+  } // larger face is farther away
   @include for-desktop-up {
     font-size: 21px;
   }
-}
-
-img {
-  max-width: 100%;
-}
-
-.site {
-  font-family: $font-stack;
-  color: $black;
-}
-
-.site-wrap {
-  margin: auto;
-  max-width: 46em;
-  padding: 0 1.25em 1.25em 1.25em;
-
-  // break at 31.25em
-  @include for-tablet-up {
-    padding: 0 2.5em 1.25em 2.5em;
-  }
-
-  // break at 52.5em
-  @include for-desktop-up {
-    max-width: 52em;
-  }
-}
-
-.page-heading {
-  font-size: $text-header;
-}
-
-.title {
-  font-size: $text-header;
-
-  @include for-desktop-up {
-    font-size: $text-header;
-  }
-}
-
-.header {
-  margin: 0.5em 0 2em 0;
-  vertical-align: middle;
-  height: 2em;
-
-  @include for-tablet-up {
-    margin: 0.25em 0 0 0;
-  }
-
-  @include for-desktop-up {
-    margin: 0.25em 0 0 0;
-  }
-}
-
-.navigation {
-  float: none;
-
-  @include for-tablet-up {
-    float: right;
-    margin: 5px 0 0 0;
-  }
-
-  @include for-desktop-up {
-    float: right;
-    margin: 5px 0 0 0;
-  }
-
-  > .link {
-    margin: 0 .5em 0 0;
-    display: inline;
-  }
-
-  .active {
-    border-bottom: $hover;
-  }
-}
-
-.content {
-  margin: 1em 0 0 0;
 }
 
 a,
@@ -135,18 +53,87 @@ a:hover {
   text-decoration: none;
 }
 
+img {
+  max-width: 100%;
+}
+
+.site {
+  font-family: $font-stack;
+  color: $black;
+}
+
+.site-wrap {
+  margin: auto;
+  max-width: 46em;
+  padding: 0 1.25em 1.25em 1.25em; // break at 31.25em
+  @include for-tablet-up {
+    padding: 0 2.5em 1.25em 2.5em;
+  } // break at 52.5em
+  @include for-desktop-up {
+    max-width: 52em;
+  }
+}
+
+.page-heading {
+  font-size: $text-header;
+}
+
+.title {
+  font-size: $text-header;
+  @include for-desktop-up {
+    font-size: $text-header;
+  }
+}
+
+.header {
+  margin: 0.5em 0 3em 0;
+  vertical-align: middle;
+  height: 2em;
+  @include for-tablet-up {
+    margin: 0.25em 0 2em 0;
+  }
+  @include for-desktop-up {
+    margin: 0.25em 0 2em 0;
+  }
+}
+
+.navigation {
+  float: right;
+  font-size: 1.4em;
+
+  a:hover {
+    border-bottom: none;
+  }
+
+  >.link {
+    margin: 0 .3em 0 0;
+    display: inline;  
+  }
+
+  @include for-tablet-up {
+    >.link {
+      margin: 0 1em 0 0;
+    }
+  }
+  @include for-desktop-up {
+    >.link {
+      margin: 0 .75em 0 0;
+    }
+  }
+  .active {
+    border-bottom: $hover;
+  }
+}
+
 
 /* POST STYLES */
-
 
 .post-list {
   margin: 0 0 3em 0;
   list-style: none;
-
   @include for-tablet-up {
     margin: 0 0 2em 0;
   }
-
   @include for-desktop-up {
     margin: 0 0 2em 0;
   }
@@ -188,12 +175,13 @@ a:hover {
   font-size: $text-body;
   color: $black;
   line-height: 1.4;
-  h1, h2 {
+  h1,
+  h2 {
     font-size: 1.25em;
   }
 }
 
-.post-header > h2 {
+.post-header>h2 {
   font-size: $text-header;
   color: $black;
   margin: 0 0 0 0;
@@ -202,11 +190,9 @@ a:hover {
 .post-header {
   margin: 0.25em 0 0.5em 0;
   display: block;
-
   @include for-tablet-up {
     margin: 0.5em 0 1em 0;
   }
-
   @include for-desktop-up {
     margin: 0.5em 0 1em 0;
   }

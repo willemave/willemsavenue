@@ -68,11 +68,11 @@ iawritercopier:
   - books
 
 navigation:
-  - text: Home
+  - text: 🏠
     url: /
-  - text: Books
+  - text: 📖
     url: /books/
-  - text: About
+  - text: 👋
     url: /about/
 
 pagination:
