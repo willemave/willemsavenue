@@ -9,15 +9,14 @@ layout: default
 
 <div class="post-header">
   <h2>{{ page.title }}</h2>
-  <span class="post-meta">{{ page.date | date: site.date_format }}</span>
+  <span class="post-meta">{{ page.date | date: site.date_format }}
   {% if page.update_date %}
-    <span class="post-meta">{{ site.data.text.post.updated }}: {{ page.update_date | date: site.date_format }}</span>
+    <span class="post-meta">{{ site.data.text.post.updated }}: {{ page.update_date | date: site.date_format }}
   {% endif %}
-  <span class="post-meta small">
   {% if page.minutes %}
-    {{ page.minutes }} {{ site.data.text.post.minute_read }}
+    ({{ page.minutes }} {{ site.data.text.post.minute_read }})
   {% else %}
-    {{ minutes }} {{ site.data.text.post.minute_read }}
+    ({{ minutes }} {{ site.data.text.post.minute_read }})
   {% endif %}
   </span>
 </div>

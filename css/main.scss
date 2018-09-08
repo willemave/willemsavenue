@@ -1,9 +1,7 @@
 ---
 ---
 @charset "utf-8";
-$font-stack: Arial,
-Helvetica,
-sans-serif;
+$font-stack: Arial, Helvetica, sans-serif;
 $primary-color: #333;
 $dark-grey: #090E3B;
 $light-grey: #AAAAAA;
@@ -11,10 +9,12 @@ $background-grey: #FFFFFF;
 $link: rgb(27, 109, 190);
 $black: #111111;
 $hover: 2px solid $link;
-$text-header: 1.35em;
+$text-header: 1.30em;
 $text-list-header: 1.1em;
 $text-body: .9em;
-$text-meta: .7em;
+$text-desc: .8em;
+$text-meta: .6em;
+
 @mixin for-tablet-up {
   @media (min-width: 31.25em) {
     @content;
@@ -28,14 +28,14 @@ $text-meta: .7em;
 }
 
 body {
-  font-size: 16px;
+  font-size: 17px;
   background-color: $background-grey;
-  line-height: 1.25; // slightly closer
+  line-height: 1.45; // slightly closer
   @include for-tablet-up {
-    font-size: 17px;
+    font-size: 18px;
   } // larger face is farther away
   @include for-desktop-up {
-    font-size: 21px;
+    font-size: 22px;
   }
 }
 
@@ -156,8 +156,8 @@ img {
 
 .post-desc {
   color: $dark-grey;
-  font-size: $text-meta;
-  margin: 0 0 0.25em 0;
+  font-size: $text-desc;
+  margin: 0 0 0.1em 0;
 }
 
 .post-title {
@@ -174,10 +174,41 @@ img {
 .post-content {
   font-size: $text-body;
   color: $black;
-  line-height: 1.4;
+  line-height: 1.6;
   h1,
   h2 {
     font-size: 1.25em;
+  }
+
+  blockquote {
+    margin: 0 0 0 0;
+    font-family: Georgia, serif;
+    font-size: .9em;
+    font-style: italic;
+    padding: 1px 35px;
+    line-height: 1.45;
+    position: relative;
+}
+
+  blockquote:before {
+    display: block;
+    content: "\201C";
+    font-size: 80px;
+    position: absolute;
+    left: -5px;
+    top: -10px;
+    color: #7a7a7a;
+  }
+
+  blockquote cite {
+      color: #999999;
+      font-size: 14px;
+      display: block;
+      margin-top: 5px;
+  }
+
+  blockquote cite:before {
+      content: "\2014 \2009";
   }
 }
 
