@@ -15,6 +15,12 @@ $text-body: .9em;
 $text-desc: .8em;
 $text-meta: .6em;
 
+@mixin for-large-phone-up {
+  @media (min-width: 375px) {
+    @content;
+  }
+}
+
 @mixin for-tablet-up {
   @media (min-width: 31.25em) {
     @content;
@@ -79,16 +85,21 @@ img {
 }
 
 .title {
-  font-size: $text-header;
+  font-size: 1.1em;
+  @include for-tablet-up {
+    font-size: $text-header;
+  }
+
   @include for-desktop-up {
     font-size: $text-header;
   }
 }
 
 .header {
-  margin: 0.5em 0 3em 0;
+  margin: 0.5em 0 2em 0;
   vertical-align: middle;
   height: 2em;
+  
   @include for-tablet-up {
     margin: 0.25em 0 2em 0;
   }
@@ -98,7 +109,6 @@ img {
 }
 
 .navigation {
-  float: right;
   font-size: 1.4em;
 
   a:hover {
@@ -110,13 +120,19 @@ img {
     display: inline;  
   }
 
+  @include for-large-phone-up {
+    float: right;
+  }
+
   @include for-tablet-up {
     >.link {
+      float: right;
       margin: 0 1em 0 0;
     }
   }
   @include for-desktop-up {
     >.link {
+      float: right;
       margin: 0 .75em 0 0;
     }
   }

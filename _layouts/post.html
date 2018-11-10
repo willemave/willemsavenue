@@ -2,7 +2,6 @@
 layout: default
 ---
 
-{% assign minutes = content | strip_html | number_of_words | divided_by: 180 %}
 {% if minutes == 0 %}
 {% assign minutes = 1 %}
 {% endif %}
@@ -12,11 +11,6 @@ layout: default
   <span class="post-meta">{{ page.date | date: site.date_format }}
   {% if page.update_date %}
     <span class="post-meta">{{ site.data.text.post.updated }}: {{ page.update_date | date: site.date_format }}
-  {% endif %}
-  {% if page.minutes %}
-    ({{ page.minutes }} {{ site.data.text.post.minute_read }})
-  {% else %}
-    ({{ minutes }} {{ site.data.text.post.minute_read }})
   {% endif %}
   </span>
 </div>
