@@ -125,14 +125,14 @@ img {
   }
 
   @include for-tablet-up {
+    float: right;
     >.link {
-      float: right;
       margin: 0 1em 0 0;
     }
   }
   @include for-desktop-up {
+    float: right;
     >.link {
-      float: right;
       margin: 0 .75em 0 0;
     }
   }

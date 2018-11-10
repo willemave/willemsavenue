@@ -18,7 +18,6 @@ class IAWriterCopier
       post_dir = File.join(dest, category, '_posts')
 
       FileUtils.mkdir_p post_dir
-      FileUtils.rm Dir.glob(File.join(src_dir, "*.{#{@markdown_ext}}"))
 
       Dir.glob(src_dir) do |file|
         filename = File.basename(file)
