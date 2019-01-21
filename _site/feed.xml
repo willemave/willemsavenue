@@ -4,10 +4,10 @@
     <title>An avenue of ways</title>
     <description>Musings on life, technology and audio.
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 20 Jan 2019 23:53:21 -0800</pubDate>
-    <lastBuildDate>Sun, 20 Jan 2019 23:53:21 -0800</lastBuildDate>
+    <link>http://willemsavenue.com/</link>
+    <atom:link href="http://willemsavenue.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 20 Jan 2019 23:57:01 -0800</pubDate>
+    <lastBuildDate>Sun, 20 Jan 2019 23:57:01 -0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -80,8 +80,8 @@
 
 </description>
         <pubDate>Sun, 20 Jan 2019 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/blog/management/2019/01/20/1-1-Questions/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/management/2019/01/20/1-1-Questions/</guid>
+        <link>http://willemsavenue.com/blog/management/2019/01/20/1-1-Questions/</link>
+        <guid isPermaLink="true">http://willemsavenue.com/blog/management/2019/01/20/1-1-Questions/</guid>
         
         
         <category>blog</category>
@@ -104,8 +104,8 @@ Always exploring can be frustrating. Multi-armed bandit problem and casino’s. 
 Sometimes sorting isn’t worth the time, only if your searching. Fault tolerant sorting, were comparisons have error bars, you want more comparisons like bubble or counting sort. In animal pecking order, sorting helps against larger amounts of antagonizing. Cardinal ordering like races allow for O(n) to sort.&lt;/p&gt;
 </description>
         <pubDate>Tue, 15 Jan 2019 09:10:00 -0800</pubDate>
-        <link>http://localhost:4000/books/2019/01/15/Algorithms-to-live-by/</link>
-        <guid isPermaLink="true">http://localhost:4000/books/2019/01/15/Algorithms-to-live-by/</guid>
+        <link>http://willemsavenue.com/books/2019/01/15/Algorithms-to-live-by/</link>
+        <guid isPermaLink="true">http://willemsavenue.com/books/2019/01/15/Algorithms-to-live-by/</guid>
         
         <category>in_progress</category>
         
@@ -130,8 +130,8 @@ Sometimes sorting isn’t worth the time, only if your searching. Fault tolerant
 
 </description>
         <pubDate>Fri, 09 Nov 2018 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/blog/thoughts/2018/11/09/How-this-blog-is-hosted/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/thoughts/2018/11/09/How-this-blog-is-hosted/</guid>
+        <link>http://willemsavenue.com/blog/thoughts/2018/11/09/How-this-blog-is-hosted/</link>
+        <guid isPermaLink="true">http://willemsavenue.com/blog/thoughts/2018/11/09/How-this-blog-is-hosted/</guid>
         
         
         <category>blog</category>
@@ -250,8 +250,8 @@ Chain reaction from easy credit to lower credit worthy was high yield debts, etc
 &lt;p&gt;Negative skill - when flipping a coin is more accurate.&lt;/p&gt;
 </description>
         <pubDate>Fri, 02 Nov 2018 10:10:00 -0700</pubDate>
-        <link>http://localhost:4000/books/2018/11/02/Mastering-the-Market-Cycle/</link>
-        <guid isPermaLink="true">http://localhost:4000/books/2018/11/02/Mastering-the-Market-Cycle/</guid>
+        <link>http://willemsavenue.com/books/2018/11/02/Mastering-the-Market-Cycle/</link>
+        <guid isPermaLink="true">http://willemsavenue.com/books/2018/11/02/Mastering-the-Market-Cycle/</guid>
         
         <category>complete</category>
         
@@ -338,8 +338,8 @@ Perhaps possible to forcasters could sequences of black swan events.&lt;/p&gt;
 
 </description>
         <pubDate>Thu, 18 Oct 2018 10:10:00 -0700</pubDate>
-        <link>http://localhost:4000/books/2018/10/18/Superforecasting/</link>
-        <guid isPermaLink="true">http://localhost:4000/books/2018/10/18/Superforecasting/</guid>
+        <link>http://willemsavenue.com/books/2018/10/18/Superforecasting/</link>
+        <guid isPermaLink="true">http://willemsavenue.com/books/2018/10/18/Superforecasting/</guid>
         
         <category>complete</category>
         
@@ -362,8 +362,8 @@ Perhaps possible to forcasters could sequences of black swan events.&lt;/p&gt;
 
 </description>
         <pubDate>Mon, 15 Oct 2018 10:10:00 -0700</pubDate>
-        <link>http://localhost:4000/books/2018/10/15/Deep-work/</link>
-        <guid isPermaLink="true">http://localhost:4000/books/2018/10/15/Deep-work/</guid>
+        <link>http://willemsavenue.com/books/2018/10/15/Deep-work/</link>
+        <guid isPermaLink="true">http://willemsavenue.com/books/2018/10/15/Deep-work/</guid>
         
         <category>complete</category>
         
@@ -389,8 +389,8 @@ Perhaps possible to forcasters could sequences of black swan events.&lt;/p&gt;
 &lt;p&gt;I wonder what a self is…&lt;/p&gt;
 </description>
         <pubDate>Sat, 29 Sep 2018 10:10:00 -0700</pubDate>
-        <link>http://localhost:4000/blog/thoughts/2018/09/29/I-Wonder/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/thoughts/2018/09/29/I-Wonder/</guid>
+        <link>http://willemsavenue.com/blog/thoughts/2018/09/29/I-Wonder/</link>
+        <guid isPermaLink="true">http://willemsavenue.com/blog/thoughts/2018/09/29/I-Wonder/</guid>
         
         
         <category>blog</category>
@@ -440,8 +440,8 @@ Order for reasons can go from small to big, specific to general, early to late, 
 &lt;p&gt;Counter claim. Can give readers a point of reference. Need reasons why counter is better.&lt;/p&gt;
 </description>
         <pubDate>Wed, 26 Sep 2018 10:10:00 -0700</pubDate>
-        <link>http://localhost:4000/books/2018/09/26/Oxford-Guide-to-effective-argument/</link>
-        <guid isPermaLink="true">http://localhost:4000/books/2018/09/26/Oxford-Guide-to-effective-argument/</guid>
+        <link>http://willemsavenue.com/books/2018/09/26/Oxford-Guide-to-effective-argument/</link>
+        <guid isPermaLink="true">http://willemsavenue.com/books/2018/09/26/Oxford-Guide-to-effective-argument/</guid>
         
         <category>in_progress</category>
         
@@ -659,8 +659,8 @@ start with outcome, work backwards, forces near and long term thinking “given 
 
 </description>
         <pubDate>Wed, 26 Sep 2018 10:10:00 -0700</pubDate>
-        <link>http://localhost:4000/books/2018/09/26/Scaling-up/</link>
-        <guid isPermaLink="true">http://localhost:4000/books/2018/09/26/Scaling-up/</guid>
+        <link>http://willemsavenue.com/books/2018/09/26/Scaling-up/</link>
+        <guid isPermaLink="true">http://willemsavenue.com/books/2018/09/26/Scaling-up/</guid>
         
         <category>complete</category>
         
@@ -708,8 +708,8 @@ start with outcome, work backwards, forces near and long term thinking “given 
 &lt;p&gt;Building visions and mission statements are worthy of a longer blog post.&lt;/p&gt;
 </description>
         <pubDate>Thu, 20 Sep 2018 10:10:00 -0700</pubDate>
-        <link>http://localhost:4000/blog/management/2018/09/20/Engineering-Motiviation/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/management/2018/09/20/Engineering-Motiviation/</guid>
+        <link>http://willemsavenue.com/blog/management/2018/09/20/Engineering-Motiviation/</link>
+        <guid isPermaLink="true">http://willemsavenue.com/blog/management/2018/09/20/Engineering-Motiviation/</guid>
         
         
         <category>blog</category>
