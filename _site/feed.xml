@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>An avenue of ways</title>
+    <description>Musings on life, technology and audio.
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 20 Jan 2019 23:53:21 -0800</pubDate>
+    <lastBuildDate>Sun, 20 Jan 2019 23:53:21 -0800</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>1:1 questions for work</title>
+        <description>&lt;p&gt;1:1’s can get dull pretty quick if you don’t change things up. I’m a big fan of walking around, or going to a different area (outside the office is even better!). It can also help to have a robust set of questions that you can iterate through. I’ve put together a list of 1:1’s from experience and various sources on the internet.&lt;/p&gt;
+
+&lt;h3 id=&quot;general&quot;&gt;General?&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;If we could improve in any way, how would we do it?&lt;/li&gt;
+  &lt;li&gt;What’s the No. 1 problem with our organization? Why?&lt;/li&gt;
+  &lt;li&gt;What’s not fun about working here?&lt;/li&gt;
+  &lt;li&gt;Who is really kicking ass in the company?&lt;/li&gt;
+  &lt;li&gt;Who do you admire?&lt;/li&gt;
+  &lt;li&gt;If you were me, what changes would you make?&lt;/li&gt;
+  &lt;li&gt;What don’t you like about the product&lt;/li&gt;
+  &lt;li&gt;What’s the biggest opportunity that we’re missing out on?&lt;/li&gt;
+  &lt;li&gt;What are we not doing that we should be doing?&lt;/li&gt;
+  &lt;li&gt;Are you happy working here?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;productivity&quot;&gt;Productivity?&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;How are feeling / learning? Do you feel supported?&lt;/li&gt;
+  &lt;li&gt;What are you worried about, interpersonal, project, career?&lt;/li&gt;
+  &lt;li&gt;What do you need from me?&lt;/li&gt;
+  &lt;li&gt;What are you stuck on, something you can’t leave alone?&lt;/li&gt;
+  &lt;li&gt;What feedback do you have for me?&lt;/li&gt;
+  &lt;li&gt;Why did you join square and what keeps you here?&lt;/li&gt;
+  &lt;li&gt;Feedback on who you’re working with?&lt;/li&gt;
+  &lt;li&gt;How are you enjoying a project?&lt;/li&gt;
+  &lt;li&gt;How useful is this 1:1 to you?&lt;/li&gt;
+  &lt;li&gt;What is the biggest challenge facing your team?&lt;/li&gt;
+  &lt;li&gt;What’s one thing holding you back as a coach?&lt;/li&gt;
+  &lt;li&gt;What’s the best idea you’ve had, that you didn’t share?&lt;/li&gt;
+  &lt;li&gt;What’s one area you know that you don’t know about?&lt;/li&gt;
+  &lt;li&gt;What’s your superpower doing this work?&lt;/li&gt;
+  &lt;li&gt;How do I feel about your performance? It’s far easier to recall concrete examples from the past week than the prior 6 months during a review cycle.&lt;/li&gt;
+  &lt;li&gt;How do you feel about my performance? Am I neglecting something important, giving too much or too little feedback, micro-managing, etc.?&lt;/li&gt;
+  &lt;li&gt;What growth opportunities (in line with your long-term goals) are available over the next week/month or so? What can each of us do to make them a success?&lt;/li&gt;
+  &lt;li&gt;Is there something difficult or frustrating that you’re grappling with, that you’d like advice/coaching on?&lt;/li&gt;
+  &lt;li&gt;Do you have enough time to focus? Are Slack and frequent email notifications interfering?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;how-are-you-feeling&quot;&gt;How are you feeling?&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;When have you felt bored in the past year?&lt;/li&gt;
+  &lt;li&gt;When have you felt dejected or demoralized this past year?&lt;/li&gt;
+  &lt;li&gt;When have you been disappointed with a decision or the direction that the company has gone in the past year?&lt;/li&gt;
+  &lt;li&gt;When have you felt excited about what you’ve been working on in the past year? What can I do to provide you with more opportunities so you feel that way?&lt;/li&gt;
+  &lt;li&gt;When have you felt most proud about being a part of the company this past year? What can I do to make sure that we do things that continue that feeling?&lt;/li&gt;
+  &lt;li&gt;When have you felt most motivated about the work you’ve been doing? What can we do to create an environment so you feel like that more often?&lt;/li&gt;
+  &lt;li&gt;When have you felt most “in flow” or “in control”of what you’re doing during the past week or so? What can we do to give you more space and time to feel that way?&lt;/li&gt;
+  &lt;li&gt;What have you been wanting to learn more of, get better at, and improve on? How can we here at the company support you in doing that?&lt;/li&gt;
+  &lt;li&gt;When have you felt that this company was one of the best places you’ve ever worked? How can I make this place the best place you’ve ever worked?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;digging-deeper&quot;&gt;Digging Deeper?&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;What do you make of it?&lt;/li&gt;
+  &lt;li&gt;What do you think is best?&lt;/li&gt;
+  &lt;li&gt;How does it look to you?&lt;/li&gt;
+  &lt;li&gt;How do you feel about it?&lt;/li&gt;
+  &lt;li&gt;What resonates for you?&lt;/li&gt;
+  &lt;li&gt;What are the possibilities?&lt;/li&gt;
+  &lt;li&gt;If you had your choice, what would you do?&lt;/li&gt;
+  &lt;li&gt;What are possible solutions?&lt;/li&gt;
+  &lt;li&gt;What will happen if you do, and what will happen if you don’t?&lt;/li&gt;
+  &lt;li&gt;What options can you create?&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Sun, 20 Jan 2019 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/blog/management/2019/01/20/1-1-Questions/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/management/2019/01/20/1-1-Questions/</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>management</category>
+        
+      </item>
+    
+      <item>
+        <title>Algorithms to live by</title>
+        <description>&lt;p&gt;Optimal stopping problem. Aka the secretary problem. 
+Time to a search if unbounded. If number of candidates is fixed. If no incomplete information, observation only, then 37% is optimal. If full information, score and only that score matters. Never hire unless it’s the best you’ve seen so far, 58%.&lt;/p&gt;
+
+&lt;p&gt;Selling a house, know objective dollar value, and rough range. Not single best, most money, waiting has a cost. Set one going in, take first option to exceed it.&lt;/p&gt;
+
+&lt;p&gt;Explore vs Exploit.
+Always exploring can be frustrating. Multi-armed bandit problem and casino’s.  Time is the key value, exploring goes down over time, exploit goes up. Need to discount payoffs based on time. You care more about the meal tonight than the one a month from now, geometrically discounting. Giddens Index. If you don’t have time, think about regret. Total amount of regret will always increase, minimize regret. Regret Minimization Algorithms. Upper Confidence Bound. Choose the one with the highest confidence bound, it’s always greater than the expected value. Optimism fights against regret. High value of the 0/0 (try/win) option. Win-stay, loose-shift explores too much.&lt;/p&gt;
+
+&lt;p&gt;Sorting.
+Sometimes sorting isn’t worth the time, only if your searching. Fault tolerant sorting, were comparisons have error bars, you want more comparisons like bubble or counting sort. In animal pecking order, sorting helps against larger amounts of antagonizing. Cardinal ordering like races allow for O(n) to sort.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 15 Jan 2019 09:10:00 -0800</pubDate>
+        <link>http://localhost:4000/books/2019/01/15/Algorithms-to-live-by/</link>
+        <guid isPermaLink="true">http://localhost:4000/books/2019/01/15/Algorithms-to-live-by/</guid>
+        
+        <category>in_progress</category>
+        
+        
+        <category>books</category>
+        
+      </item>
+    
+      <item>
+        <title>How this Blog is hosted and thoughts on speed</title>
+        <description>&lt;p&gt;Browsers are really good at rendering content, like really good. They are so good that we send megabytes of HTML and JavaScript and they handle rendering and manipulating content at over 60 frames per second.&lt;/p&gt;
+
+&lt;p&gt;So I was thinking, why are most blogs or content sites paginated? Seems like it’s not better. It’s much easier to scroll and consume content, rather than have to paginate or lazy load. So then why not just have a long list of content that’s scrollable? My sense is that it’s too slow to read from whatever datastore, process the content and send it to the browser.&lt;/p&gt;
+
+&lt;p&gt;So I’m trying something different. This blog is built on Jekyll, which is awesome, it processes template files and produces a static HTML site. I built a quick plug-in so that it copies my markdown files from IAWriter to it’s src directory. Then, with a quick deploy script it builds the Jekyll site and git pushes the site to GitHub Pages.&lt;/p&gt;
+
+&lt;p&gt;Two small optimizations I added from there, and to ensure that it’ll really never go down, I’m using CloudFlare as a CDN with Let’s Encrypt, all seamless and reliable.&lt;/p&gt;
+
+&lt;p&gt;So why is this related to speed? Because in this case with simple css and little javascript, it’s incredibly cheap to serve unpaginated content lists to the browser many times under 40 ms. In the future if needed, I can add more async behavior and will likely just use some light JavaScript and/or cloud functions to augment the page.&lt;/p&gt;
+
+&lt;p&gt;Happy scrolling!&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 09 Nov 2018 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/blog/thoughts/2018/11/09/How-this-blog-is-hosted/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/thoughts/2018/11/09/How-this-blog-is-hosted/</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>thoughts</category>
+        
+      </item>
+    
+      <item>
+        <title>Mastering the Market Cycle</title>
+        <description>&lt;p&gt;Risk is unknowable future, for gains and losses.&lt;/p&gt;
+
+&lt;p&gt;An edge is an information edge, tendencies (likely to happen) need to take into account factors. Hard to know how far back, impossible to define when “cycle starts or ends” but can look at peak to peak or trough to trough. Regression to the mean. Mean generally has a secular trend upward. Events can build on each other like stored energy, do not happen in isolation. Largely driven by psychology.&lt;/p&gt;
+
+&lt;p&gt;Returns are better when investors are fearful and worse when greedy.&lt;/p&gt;
+
+&lt;p&gt;Different types of cycles that can interact.&lt;/p&gt;
+
+&lt;p&gt;One time events Are difficult to identify the tendency, given lots of exgenerous factors, I.e. earnings calls&lt;/p&gt;
+
+&lt;p&gt;Long term cycles: Since GDP = hours worked * productivity. GDP therefore is largely impacted by birth rates. Drive to work (vs communism), automation (vs loss of people working and consumption). Averge generally goes up.&lt;/p&gt;
+
+&lt;p&gt;Short term cycles: psychology, yearly GDP doesn’t really matter. wealth effect, people feel good spend more. Unconventional Forecasts are rarely right and can’t be used generally, mainly gambling. Hindsight bias priases these people.&lt;/p&gt;
+
+&lt;p&gt;Endogenous: hiring more
+exogenous: war, tax changes, pricing cartels, droughts,&lt;/p&gt;
+
+&lt;p&gt;Government’s cycles: central Banks, Hawks make changes fast and perhaps too far. Doves help growth with stimulation packages. Deficits that help drive demand can be useful for growth. CBs try to drive counter cyclical, very hard to get right.&lt;/p&gt;
+
+&lt;p&gt;Profits cycles: larger effect on some companies rather than others. Food and Staples are more consistent, industrial equipment is closer. Very dependent on type business. Sales growth (GDP) does not = GDP due to costs.&lt;/p&gt;
+
+&lt;p&gt;Fixed income = known loss because equity holder loose before debt holders, a fixed outcome. If company is pure equity, any loss or change in operating behavior flows directly to bottom line (net income). Debt is leverage and shows up more on net income incases of changes to operating costs, financial leverage at work.&lt;/p&gt;
+
+&lt;p&gt;Technology cycles affect operating profits by doing things more efficiently and increasing competition.&lt;/p&gt;
+
+&lt;p&gt;Investors psychology cause excess swings. Greed, fear pendulum. There are others. Euphoria &amp;gt; Optimism and depression. This also effects between skepticism and potential. Affects how people came the future.&lt;/p&gt;
+
+&lt;p&gt;Superior investor, few people are even keeled. Looking at intrinsic value + future value.
+Emotional driven actions follow either: Selective perception and skewed interpretation. Not the data or events rather how people interpret them.&lt;/p&gt;
+
+&lt;p&gt;Risk&lt;/p&gt;
+
+&lt;p&gt;Events aren’t predicable and hence risk, primary challenge. We can only deal with environment as it is. Risk is not linear wrt return, appear to have higher return.&lt;/p&gt;
+
+&lt;p&gt;Risk aversion changes based on environment. Change premiums, lose interest in the lower end of the spectrum. Changes the capital markets line, the slope of line is how risk averse is the market.&lt;/p&gt;
+
+&lt;p&gt;Credit spreads, government 5 to corporate 6, as trust flows that way, same with maturity, hence credit spreads and yield curves.&lt;/p&gt;
+
+&lt;p&gt;Risk tolerance avoids reasonable thought, risky behavior on financial events. Race to bottom for larger finance firms.&lt;/p&gt;
+
+&lt;p&gt;Story about yields on bonds during financial crisis, and consecutive negative questions about “how bad can it get”.&lt;/p&gt;
+
+&lt;p&gt;How much optimism is baked into the price? How much skepticism?&lt;/p&gt;
+
+&lt;p&gt;Look for optimism when pesissim runs amok. Investors typically oscillate between there is not a risk in sight, and I don’t wanna lose another dollar.&lt;/p&gt;
+
+&lt;p&gt;Credit cycle. Like A window, which can shut in an incident. GDP the only TV but if you percentage points from the trend line, profits only deviate by a few percentage points from the trendlines. Financial leverage causes reported profits to swing or widely.&lt;/p&gt;
+
+&lt;p&gt;Credit cycles can affect even short term borrowing towards long-term assets because people typically roll over these deaths and need new capital to continue funding. If you don’t have cash on hand to pay this becomes a problem in this affects financial institutions more.&lt;/p&gt;
+
+&lt;p&gt;If you lend it, they will build it, sometimes recklessly.&lt;/p&gt;
+
+&lt;p&gt;Money is just like any other commodity, when is cheap people lend with loose terms, this is the race to the bottom. This is how lending firms “compete” by offering successively worse deals, as credit is plentiful.&lt;/p&gt;
+
+&lt;p&gt;GFC, low interest rates and race to bottom for “money commodity”. Credit window closes.&lt;/p&gt;
+
+&lt;p&gt;Closed windows. Investors are depressed. Hard to refinance, etc. Because of fear, makes most people afraid to invest.&lt;/p&gt;
+
+&lt;p&gt;Open windoes, cheap deals, buyers raise money, unwise extension.&lt;/p&gt;
+
+&lt;p&gt;Don’t come only from high quality assets, but when deals are good.&lt;/p&gt;
+
+&lt;p&gt;Distressed debt cycle:
+Chain reaction from easy credit to lower credit worthy was high yield debts, etc.&lt;/p&gt;
+
+&lt;p&gt;“Stacks logs on the bonfire”. Needs an ignitor.&lt;/p&gt;
+
+&lt;p&gt;Warning words: “ever increasing”, “this time is different”&lt;/p&gt;
+
+&lt;p&gt;Investors job, bull makers top and bear markets  bottom are by definition related to psychology or immature investors.&lt;/p&gt;
+
+&lt;p&gt;If only earnings prices wouldn’t fluctuate much more than prices.&lt;/p&gt;
+
+&lt;p&gt;Distorted views, quirks like confirmation bias, non linear utility, tall tales, risk tolerance and version, herd behavior, extreme discomfort was watching other people make money, give up on valuable investments.&lt;/p&gt;
+
+&lt;p&gt;Prices are fundamentals (events like earnings and cash flow) and psychology (how we respond to fundamentals).&lt;/p&gt;
+
+&lt;p&gt;There is a cycle in the wave of psychology that is.&lt;/p&gt;
+
+&lt;p&gt;What the wisemen does in the beginning, the fool does at the end. innovator, imitators, idiot. Very hard to watch your friends make money.&lt;/p&gt;
+
+&lt;p&gt;Mania to always talk about bubble. Not every big rise is a bubble. Hallmark is “no price too high” use leverage to keep making money.&lt;/p&gt;
+
+&lt;p&gt;When in cycle is a potential for a return, lower potential earlier, higher later.&lt;/p&gt;
+
+&lt;p&gt;for: Economy: Vibrant Sluggish Outlook: Positive Negative Lenders: Eager Reticent Capital markets: Loose Tight Capital: Plentiful Scarce Terms: Easy Restrictive.&lt;/p&gt;
+
+&lt;p&gt;“What some people wish for, they end up believing” - demoicles&lt;/p&gt;
+
+&lt;p&gt;There is no silver bullet, otherwise person selling would hoard or prices would go up.&lt;/p&gt;
+
+&lt;p&gt;Most bubbles happen because of Unquestioning acceptance of things that haven’t been true in the past.&lt;/p&gt;
+
+&lt;p&gt;Financial reflexivity: Thinking participants can affect markets because of their distorted views. Similar to wishes affecting beliefs.&lt;/p&gt;
+
+&lt;p&gt;Impossible to know when the bottom is, focus on fundamentals, historical price value.&lt;/p&gt;
+
+&lt;p&gt;How to do this, try to travel into the future and back test assumptions. No tactics that always work.&lt;/p&gt;
+
+&lt;p&gt;Cycle positioning. Agressiveness: timing: skill.&lt;/p&gt;
+
+&lt;p&gt;1) Cycle positioning, asset selection
+2) agressiveness and defensiveness
+3) reasonable assumption, generally correct,&lt;/p&gt;
+
+&lt;p&gt;Negative skill - when flipping a coin is more accurate.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 02 Nov 2018 10:10:00 -0700</pubDate>
+        <link>http://localhost:4000/books/2018/11/02/Mastering-the-Market-Cycle/</link>
+        <guid isPermaLink="true">http://localhost:4000/books/2018/11/02/Mastering-the-Market-Cycle/</guid>
+        
+        <category>complete</category>
+        
+        <category>investing</category>
+        
+        
+        <category>books</category>
+        
+      </item>
+    
+      <item>
+        <title>Superforecasting</title>
+        <description>&lt;p&gt;Forecasters are just Chips throwing darts at a dartboard, little better than guessing.&lt;/p&gt;
+
+&lt;p&gt;Butterfly effect, LaPlasses Deamon, lorenzes cloud. We live in a world of predictability and unpredictability. Prediction accuracy for Forecasts That have a component of chaotic for butterfly affect, will converge towards 0.&lt;/p&gt;
+
+&lt;p&gt;forecasts are used for everything from Banks promising financial gain, to pundits saying they know the outcome.&lt;/p&gt;
+
+&lt;p&gt;System one and system two in the cognitive reflection test.&lt;/p&gt;
+
+&lt;p&gt;We impose order on the world, why we can make System 1 decisions sounds d sane even when there is better evidence. Split brain test, Different hemispheres of the brain are shown different pictures, but the brain creates a story about both of them. sometimes the best positive test is the test where you prove the negative and it turns out to be false.&lt;/p&gt;
+
+&lt;p&gt;Any forecasting should clarify different nouns and verbs in the statement. Like The word possible which ranges from 0 to 100%.&lt;/p&gt;
+
+&lt;p&gt;Judging judgment. Must have many forecasts to look at judgment. Resolution and calibration. Resolution is how far away from 50/50, calibration is percent of time correct. Briar score.&lt;/p&gt;
+
+&lt;p&gt;Big idea forcasters fit everything into that model, doggedly try to fit relativity into their view, worse than dart throwing chimps. Emerald City and green glasses. May increase confidence but not accuracy.&lt;/p&gt;
+
+&lt;p&gt;Collective judgment is generally more accurate. Useful information is usually spread out. Min / max cancel each other out. Individual Forecasts may be better. Good forcasters do internal aggregation. Think about other people, rational Vulcan, pseudo radical, aggregators, gut guessers. IE the guess the numbers game.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Reasonable vs correct&lt;/strong&gt;, don’t look at outcomes, look at the way it was analyzed. Can be reasonable and wrong.&lt;/p&gt;
+
+&lt;p&gt;Test everything, doubt everything, red teams, AB tests, etc.&lt;/p&gt;
+
+&lt;p&gt;Wisdom of crowd is just aggregation of information, once you have this, can increase confidence once you have this.&lt;/p&gt;
+
+&lt;p&gt;Randomness can for you, one person Getting 100 coin tosses 70% correct is extremely unlikely, but 2000 people guessing will be close. Similar to the fallacy of guessing the stock market.&lt;/p&gt;
+
+&lt;p&gt;Regression to the mean is a powerful concept. in completely random coin toss, if very lucky people got 90% ones they would have more likely hit 10% next time.&lt;/p&gt;
+
+&lt;p&gt;Fermi-estimates, Breaking down the question into it’s constituents parts. identifying the knowable from the unknowable. Fermi-zing, and confidence intervals.&lt;/p&gt;
+
+&lt;p&gt;Inside view vs. outside view. inside view is data you look at within the event. Outside view is trend or historical data for data related to that event. Better to start with outside to ensure eyou anchor with out being involved in the.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Fermi-ize&lt;/li&gt;
+  &lt;li&gt;Outside view&lt;/li&gt;
+  &lt;li&gt;Inside view based on fermi-ize questions&lt;/li&gt;
+  &lt;li&gt;Synthesize both&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Be Actively open minded, seek other opinions, weight them equally.&lt;/p&gt;
+
+&lt;p&gt;Avoid the in, Wide variance and probability can lead people to go into a ignorance Pryor. there is a primal instincts to align with certainty, even though it is against our best System two judgment.&lt;/p&gt;
+
+&lt;p&gt;Ailiatory uncertainty (like prericiti g the weather) will always exist.&lt;/p&gt;
+
+&lt;p&gt;Porbabilistic thinkers focus on the how it happened vs the why. Be wary of substituting my sorry of beliefs for the one I’m analyzing. IE if person x is likely to make a mistake.&lt;/p&gt;
+
+&lt;p&gt;Under or over updating: Achilles heel of forcasters.&lt;/p&gt;
+
+&lt;p&gt;Don’t need full Bayes equations. Just update priors based on the weight of new evidence.&lt;/p&gt;
+
+&lt;p&gt;Groupthink: we cannot all be wrong, don’t mistake agreement for correctness. Ask precision questions, don’t question the person or ask vague “what do you mean” unless the person is being ambiguous. Criticism is helpful, I want to hear feedback. Don’t Dance and the issues&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How to invite criticism more?&lt;/strong&gt;
+Givers, matchers, takers, flow of information and questions are critical.&lt;/p&gt;
+
+&lt;p&gt;Contrarian thinking can help inject new information into the group.&lt;/p&gt;
+
+&lt;p&gt;“Nothing like Danger to focus the mind” -soros&lt;/p&gt;
+
+&lt;p&gt;Distinguish what you are confident about and what you’re not. Look part the end of your nose. Self doubt is not the answer, intellectual humility is key, careful reflection, confidence can inspire determinate action.&lt;/p&gt;
+
+&lt;p&gt;Don’t mistake facts from values, especially when looking at actions by others or organizations.&lt;/p&gt;
+
+&lt;p&gt;Kahneman: 
+scope insensitivity, you imagine the one for the many when valuing something. Need a multiplier. &lt;strong&gt;Scope can include time as well!&lt;/strong&gt;
+WYSIWTI - What you see is what there is&lt;/p&gt;
+
+&lt;p&gt;Black swan investing == VC
+Forecast investing 60% more modest gains.
+Perhaps possible to forcasters could sequences of black swan events.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 18 Oct 2018 10:10:00 -0700</pubDate>
+        <link>http://localhost:4000/books/2018/10/18/Superforecasting/</link>
+        <guid isPermaLink="true">http://localhost:4000/books/2018/10/18/Superforecasting/</guid>
+        
+        <category>complete</category>
+        
+        
+        <category>books</category>
+        
+      </item>
+    
+      <item>
+        <title>Deep work</title>
+        <description>&lt;p&gt;Shifts into easier more logistic work.&lt;/p&gt;
+
+&lt;p&gt;Network tools move things from deep to shallow&lt;/p&gt;
+
+&lt;p&gt;Average is over, technology segments and remote work will raise up stars and also allow for deeper thought.&lt;/p&gt;
+
+&lt;p&gt;Thomas pickety notes that it is difficult to quantify the work of an individual as an organization grows.&lt;/p&gt;
+
+&lt;p&gt;Recurring meetings and lots of emails force people in to the path of least resistance.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 15 Oct 2018 10:10:00 -0700</pubDate>
+        <link>http://localhost:4000/books/2018/10/15/Deep-work/</link>
+        <guid isPermaLink="true">http://localhost:4000/books/2018/10/15/Deep-work/</guid>
+        
+        <category>complete</category>
+        
+        
+        <category>books</category>
+        
+      </item>
+    
+      <item>
+        <title>&quot;I Wonder&quot;</title>
+        <description>&lt;p&gt;“I wonder” are two of the most powerful words in the english language. It causes the brain to open doors. It inherently challenges assumptions. It forces different perspectives. It creates a perspective different from the status quo.&lt;/p&gt;
+
+&lt;p&gt;I wonder why that apple fell.&lt;/p&gt;
+
+&lt;p&gt;I wonder why the stars move.&lt;/p&gt;
+
+&lt;p&gt;I wonder why phones have key pads.&lt;/p&gt;
+
+&lt;p&gt;I wonder why touch devices need a stylus.&lt;/p&gt;
+
+&lt;p&gt;I wonder what a thought is.&lt;/p&gt;
+
+&lt;p&gt;I wonder what a self is…&lt;/p&gt;
+</description>
+        <pubDate>Sat, 29 Sep 2018 10:10:00 -0700</pubDate>
+        <link>http://localhost:4000/blog/thoughts/2018/09/29/I-Wonder/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/thoughts/2018/09/29/I-Wonder/</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>thoughts</category>
+        
+      </item>
+    
+      <item>
+        <title>Oxford Guide to effective argument</title>
+        <description>&lt;p&gt;Thinking critically is judging strength or weakness.&lt;/p&gt;
+
+&lt;p&gt;Questions vs noun phrases, generally stating association between two objects. Look out for the explicitness of a claim.&lt;/p&gt;
+
+&lt;p&gt;Reasons give grounds for accepting the conclusion.&lt;/p&gt;
+
+&lt;p&gt;We have an argument when P and Q have an inference from one another. (P, and so Q). the most basic argument is an inference from a claim (P → Q). Explanation does not equate to argument.&lt;/p&gt;
+
+&lt;p&gt;SLOW FOG - is conclusion, reason.&lt;/p&gt;
+
+&lt;p&gt;Analyze claims to see which are reasons and which are conclusions.&lt;/p&gt;
+
+&lt;h3 id=&quot;titles-as-questions&quot;&gt;titles as questions&lt;/h3&gt;
+
+&lt;p&gt;Title -&amp;gt; statement -&amp;gt; reason -&amp;gt; conclusion&lt;/p&gt;
+
+&lt;p&gt;Good idea to break questions down into sub-questions - great ways to stress thinking, break out assumptions. Set parts of your argument into meaningful order, give direction. Reasons and Conclusion should we weighted equally. Don’t infer more than the reasons imply.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-will-you-make-yourself-clear&quot;&gt;How will you make yourself clear?&lt;/h3&gt;
+
+&lt;p&gt;Title.
+Determine scope of your argument. Ie focus, time span, geography, etc. Smaller target is easier to hit.
+Be careful of words with multiple meanings.
+In an argument, make assumptions clear.
+Statement = where you stand.
+Ambiguity = multiple meanings.
+Slippery use of words is self defeating.&lt;/p&gt;
+
+&lt;p&gt;Ordering / Indicating: 
+Claim (P) -&amp;gt; Explanation (E) -&amp;gt; Inference (Q)
+Order for reasons can go from small to big, specific to general, early to late, etc.&lt;/p&gt;
+
+&lt;p&gt;avoid vagueness by defining the key terms that you will use; ￼ be precise about the scope of your argument; ￼ be aware of any assumptions that you may be making; ￼ take care not to use ambiguous language; ￼ be wary of conflating terms that ordinarily have different uses.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-case-have-other-made&quot;&gt;what case have other made?&lt;/h3&gt;
+
+&lt;p&gt;Counter claim. Can give readers a point of reference. Need reasons why counter is better.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 26 Sep 2018 10:10:00 -0700</pubDate>
+        <link>http://localhost:4000/books/2018/09/26/Oxford-Guide-to-effective-argument/</link>
+        <guid isPermaLink="true">http://localhost:4000/books/2018/09/26/Oxford-Guide-to-effective-argument/</guid>
+        
+        <category>in_progress</category>
+        
+        
+        <category>books</category>
+        
+      </item>
+    
+      <item>
+        <title>Scaling Up Excellence</title>
+        <description>&lt;p&gt;Scaling up Excellence&lt;/p&gt;
+
+&lt;p&gt;Life is messy
+Scaling depends on people
+Focus on you first&lt;/p&gt;
+
+&lt;p&gt;Focus on the ground battles not the air battle.&lt;/p&gt;
+
+&lt;p&gt;Grit drives people to succeed.&lt;/p&gt;
+
+&lt;h3 id=&quot;spread-of-mindset-just-a-footprint&quot;&gt;Spread of mindset just a footprint.&lt;/h3&gt;
+
+&lt;h3 id=&quot;engage-all-the-senses&quot;&gt;Engage all the senses&lt;/h3&gt;
+&lt;p&gt;It in a grocery store playing French music cause people to buy French products. if people were in a sent in a scented were more likely to keep it clean. You can boost mindset with a lot of tons of tiny queues.&lt;/p&gt;
+
+&lt;h3 id=&quot;accelerate-accountability&quot;&gt;Accelerate accountability&lt;/h3&gt;
+&lt;p&gt;Tug of responsibility is felt by everyone. Transparency, Leaderboards, Showong your work, etc.&lt;/p&gt;
+
+&lt;h3 id=&quot;avoiding-the-clusterfuck&quot;&gt;Avoiding the clusterfuck&lt;/h3&gt;
+&lt;p&gt;Cluster from military, not enough skilled officers
+Illusion and patience and confidence, and instill a healthy dose of doubt and worry
+Sources from habits or culture must be changed as things scale. Like AllHands for everyone. 
+Whittle away cognitive and emotional burdens from old world.
+Addition and subtraction&lt;/p&gt;
+
+&lt;h3 id=&quot;slow-down-to-go-fast-system-1-vs-2&quot;&gt;Slow down to go fast, system 1 vs 2&lt;/h3&gt;
+&lt;p&gt;System 1 is like old cukutres and habits.&lt;/p&gt;
+
+&lt;h2 id=&quot;bhuddism-or-catholicism&quot;&gt;bhuddism or Catholicism&lt;/h2&gt;
+&lt;p&gt;Top down and told why, or a mindset and let people decide.
+“I like, I wish”&lt;/p&gt;
+
+&lt;p&gt;See’s Candies, In n Oit, Intel == Catholicism. Works well when standardization and Precision Is requireda for success.&lt;/p&gt;
+
+&lt;p&gt;Watch out for the replica trap.&lt;/p&gt;
+
+&lt;p&gt;One way is not always better than the other, but look for over standardization.&lt;/p&gt;
+
+&lt;p&gt;Do you suffer from delusions of uniqueness? Too often we fool ourselves, why are you special? Knee surgery, 5% of customization.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;replication needs an example to succeed. ImPossible to pick and choose best practices as there are no examples to back them up.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Starbucks, copies Italian, but improved.&lt;/p&gt;
+
+&lt;p&gt;Will bolstering Buddhism increase commitments and understanding?
+Buddhism is great to experiment, own goals.&lt;/p&gt;
+
+&lt;p&gt;Dips in Excellence are temporary and predictable in the learning curve as you scale up.&lt;/p&gt;
+
+&lt;p&gt;Sometimes it’s better to roll and inferior solution to optimize for learning. Guard rails can help allow for local optimization. Specify the least number of guardrails necessary.&lt;/p&gt;
+
+&lt;p&gt;Economic incentives can help align the edges.&lt;/p&gt;
+
+&lt;h2 id=&quot;scaling-principles&quot;&gt;Scaling principles&lt;/h2&gt;
+
+&lt;p&gt;Change Belief or Behavior? - both strategy is are mutually reenforcing. Emotions are contagious.&lt;/p&gt;
+
+&lt;p&gt;Stanford and helmets, using watermelons to show, got buy in from soccer team.&lt;/p&gt;
+
+&lt;p&gt;JetBlue, do then speak, Drew out a process map. Large cross functional team. Guiding principle of “Cancel, Repair, communicate”.&lt;/p&gt;
+
+&lt;p&gt;Scope out scaling challenges between reinforcing beliefs and behaviors.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Name the problem - compact summary of the problem, helps if it’s catchy&lt;/li&gt;
+  &lt;li&gt;Name the enemy - If people feel threatened through a external threat, Pick a target, freeze it and polarize it. Steve Jobs, MS and Dell. Worry about embracing it too strongly.&lt;/li&gt;
+  &lt;li&gt;Do it where all can see - Ghandi and Salt walk.&lt;/li&gt;
+  &lt;li&gt;Breach assumptions&lt;/li&gt;
+  &lt;li&gt;Create gateway experiences and on ramps - ie cleaning up a plant&lt;/li&gt;
+  &lt;li&gt;New rituals, better rituals- doing some things voluntarily and publicly&lt;/li&gt;
+  &lt;li&gt;Lean on people who can’t leave good alone, perhaps younger
+    &lt;blockquote&gt;
+      &lt;p&gt;“Be a Poet and a Plumber”
+Mindset is a compass&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;cut-cognitive-load&quot;&gt;Cut cognitive load&lt;/h2&gt;
+&lt;p&gt;Rules tools and fools
+Can only store 7 numbers in short term memory. Miller number. More metric, more goals do not always help. 
+Multitasking hurts, scaling can help people multitask more.
+Larger groups have higher cognitive load, connections are exponential, Dunbar number.
+Reduce the heirarchy, heirarchy helps with communication, clear roles, clear roles.
+Don’t over simplify,&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Shit detector, throw away what isn’t working, need to subtract as we scale. Cut cognitive load.&lt;/li&gt;
+  &lt;li&gt;Substraction: As scaling unfolds sometimes you need to inject complexity, then remove it. Simplistic -&amp;gt; complex -&amp;gt; profound simplicity. Liking to Exposure of stimulus grows algorimically - why subtraction is hard.&lt;/li&gt;
+  &lt;li&gt;Subtraction via addition, load busters. Subtracting large teams and adding smaller pods.&lt;/li&gt;
+  &lt;li&gt;Incentives, money, goals, Swapping roles can help show empathy across teams.&lt;/li&gt;
+  &lt;li&gt;Bolster collective brainpower. Team performance is not linked to initial intelligence. “Hard Teams” help with execution, and on complex or time sensitive tasks.&lt;/li&gt;
+  &lt;li&gt;Rest, sleep helps&lt;/li&gt;
+  &lt;li&gt;Give ground grudgingly. Coordination neglect. Stay vigilant. Run things a little hot, add process when needed. Still need slack.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;When accountability evaporates people’s passion goes away, involves a “used to attitude”. Just talent is not having a no assholes policy helps. Talent density matters.&lt;/p&gt;
+
+&lt;p&gt;Netflix treats annual performance review as a “rehire”, what would this person make if they were hired else where&lt;/p&gt;
+
+&lt;p&gt;Accountability: I own the place, and the place owns me.&lt;/p&gt;
+
+&lt;p&gt;Free rider is a selfish problem.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Free riser problem is asymmetric. Incentives, external and internal.&lt;/li&gt;
+  &lt;li&gt;Inject pride and riteous anger, can drive fewer selfish desires.“Properly bed, fed and led” - army general.&lt;/li&gt;
+  &lt;li&gt;“Guilt prone leaders”, work hard and unselfishly. Do what is best for greater good. If people feel guilty they will do the behaviors that are best for their organization.&lt;/li&gt;
+  &lt;li&gt;“I’ll be watching you” - subtle remind that other people may be watching.&lt;/li&gt;
+  &lt;li&gt;Create the right gene pool, company becomes people it hires. Can reengineer the pool as well.&lt;/li&gt;
+  &lt;li&gt;Find people or Companies hope you hiring, acting as a filter. Teach for America program and stanfords coordinator program&lt;/li&gt;
+  &lt;li&gt;Hire people pre-wired for your mindset. Autistic consulting company for testing. Taj hotel and finding people who put customers first.&lt;/li&gt;
+  &lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Just like working out, stressing an org can be beneficial, as it scales, stress can be of many forms. Lack of process, rotating super stars, transparency, etc.&lt;/p&gt;
+
+&lt;h2 id=&quot;chapter-6-using-social-bonds-to-spread-excellent&quot;&gt;Chapter 6 using social bonds to spread excellent&lt;/h2&gt;
+
+&lt;p&gt;Core team the information and guidance flowing. 
+Find helpers, train then up, core team can not push over ever Domino.
+Can’t just spread something good over everything. Need pockets of excellence.&lt;/p&gt;
+
+&lt;p&gt;identify people that could replace you, having a keen eye for talent is aultiploer.
+&lt;em&gt;Energizer&lt;/em&gt; not necessarily bubbly.
+After a conversation with someone you know more energized or less energized. This is a great way to frame if you want someone on your team not or company.&lt;/p&gt;
+
+&lt;p&gt;avoid “murder boards”, gamify the process.&lt;/p&gt;
+
+&lt;p&gt;Usually you have to use multiple methods to reinforce the message. 
+Top down. Broadcast.&lt;/p&gt;
+
+&lt;p&gt;Scaling up Excellence,&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Pairing people up&lt;/li&gt;
+  &lt;li&gt;Brokers&lt;/li&gt;
+  &lt;li&gt;Transparency&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ideo Kelly&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Connector&lt;/li&gt;
+  &lt;li&gt;Listener&lt;/li&gt;
+  &lt;li&gt;Speak last&lt;/li&gt;
+  &lt;li&gt;Change direction when new information&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Not the rituals that matter, but the rythym&lt;/p&gt;
+
+&lt;p&gt;Signals things aren’t working, few lunches and smiles, or conversly, to interconnected and confidence bias&lt;/p&gt;
+
+&lt;p&gt;Bad behavior Cascades just like others&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;its not my problem&lt;/li&gt;
+  &lt;li&gt;Commons problem&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Avoid this:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Each person person Ally obligated&lt;/li&gt;
+  &lt;li&gt;Everyone agrees on what bad bevhior looks like&lt;/li&gt;
+  &lt;li&gt;Make sure bad behavior is not normalized.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Bad behavior:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Plumbing before poetry. Weed out bad behevaior before preaching&lt;/li&gt;
+  &lt;li&gt;Use cool kids to squalch bad behavior&lt;/li&gt;
+  &lt;li&gt;Kill the thrill of bad behavior.&lt;/li&gt;
+  &lt;li&gt;Timeshifting - show the future&lt;/li&gt;
+  &lt;li&gt;good Times bad Times and the end&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Kahneman: No matter how good of long something is, the best and worst experiences will drive the memory of it.&lt;/p&gt;
+
+&lt;p&gt;Applies to people coming and leaving to the team as well (say lay offs)&lt;/p&gt;
+
+&lt;p&gt;dangerous feelings&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Fear of standing up - silence is dangerous&lt;/li&gt;
+  &lt;li&gt;Fear of being ostracized. Embarrassment works if aligned with pride&lt;/li&gt;
+  &lt;li&gt;Anonymity&lt;/li&gt;
+  &lt;li&gt;Helplessness, need to say that past will not affect, focus on tactical wins&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Premortems:
+start with outcome, work backwards, forces near and long term thinking “given this failed, what happened”. What if another company launched this same thing, what happened?&lt;/p&gt;
+
+&lt;p&gt;Where to begin:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Start with yourself.&lt;/li&gt;
+  &lt;li&gt;Scaling needs grit, way more than planning and kickoffs&lt;/li&gt;
+  &lt;li&gt;Design needs constrains, more imaginative solutions when guidelines.&lt;/li&gt;
+  &lt;li&gt;Job of hierarchy is to remove the hierarchy,does it enable creativity or hamper?&lt;/li&gt;
+  &lt;li&gt;You don’t always need to be friends, hire people you respect, need to work together regardless if they are friends. Empower people to take different opinions, &lt;strong&gt;productive friction&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Mutual respect, Fight as you are right, listen as you are wrong.&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;I own the place and the place owns me.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;pride&quot;&gt;Pride&lt;/h2&gt;
+
+</description>
+        <pubDate>Wed, 26 Sep 2018 10:10:00 -0700</pubDate>
+        <link>http://localhost:4000/books/2018/09/26/Scaling-up/</link>
+        <guid isPermaLink="true">http://localhost:4000/books/2018/09/26/Scaling-up/</guid>
+        
+        <category>complete</category>
+        
+        
+        <category>books</category>
+        
+      </item>
+    
+      <item>
+        <title>Motivation</title>
+        <description>&lt;p&gt;Motivation can be elusive. Thankfully we have grown out of the dark ages of Pavlovian motivation theory. &lt;a href=&quot;https://www.amazon.com/dp/B004P1JDJO/ref=dp-kindle-redirect?_encoding=UTF8&amp;amp;btkr=1&quot;&gt;Daniel H. Pink’s Drive&lt;/a&gt; was very influential in my thinking on the subject. While there is no formula, I’ve generally aligned around four principles that must be met for someone to identify as motivated.&lt;/p&gt;
+
+&lt;h3 id=&quot;1-relationships-do-i-respect-and-like-the-people-i-work-with&quot;&gt;#1. &lt;strong&gt;Relationships&lt;/strong&gt;: Do I respect and like the people I work with?&lt;/h3&gt;
+
+&lt;p&gt;I’ve never been a fan of having a social club after work. These usually revolve around alcohol which is not an inclusive activity.&lt;/p&gt;
+
+&lt;p&gt;I generally find that creating work connections revolve best around an activity that people find mutually interesting. Game nights, lunch, funny awards and other rituals can help build this engaging environment.&lt;/p&gt;
+
+&lt;p&gt;I’m a big fan of pair programming or any form of shared problem-solving. This high-bandwidth mode of interaction sets aside personal differences and allows a set of people to focus on something shared. Inadvertently it also allows people to learn the intricacies in the way that other people work.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-growth-and-mastery-the-work-im-doing-is-helping-me-in-my-career&quot;&gt;#2. &lt;strong&gt;Growth and Mastery&lt;/strong&gt;: The work I’m doing is helping me in my career.&lt;/h3&gt;
+
+&lt;p&gt;Engineers love to learn. It’s even better when we are further refining skills or learning something new at work. It’s the managers job to understand what that is and how they can help. This can take many forms, but it starts with understanding where they want to go. Try asking… what do you want to do after your current job?&lt;/p&gt;
+
+&lt;p&gt;It’s helpful if there are projects that allow them to stretch in different directions. While not always possible, there are usually opportunities to go deeper and learn in the current frame of work.&lt;/p&gt;
+
+&lt;p&gt;Remember learning can take many forms, and is usually reinforced when there are social commitments. Lunch and learns, book clubs and collaborative coding exercises are great concrete ways to provide the space for learning.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-autonomy-im-unblocked-i-have-the-tools-and-time-to-do-my-work&quot;&gt;#3. &lt;strong&gt;Autonomy&lt;/strong&gt;: I’m unblocked, I have the tools and time to do my work.&lt;/h3&gt;
+
+&lt;p&gt;Nothing kills autonomy more than micro-management, frequent status updates and an overbearing process. It’s possible to have autonomy and accountability at the same time, and it’s 100% critical to separate out these concepts.&lt;/p&gt;
+
+&lt;p&gt;What about communicating status updates? It’s important for people to be able to communicate what work accomplished. Ideally these happen as a byproduct of doing work, showcasing the work itself is even better.&lt;/p&gt;
+
+&lt;p&gt;Individuals with autonomy are clear about what is expected. When working, they are able to choose how they execute towards their goals. If cross team or project dependencies exist, they know  who to reach out to and are empowered to unblock themselves.&lt;/p&gt;
+
+&lt;p&gt;After all this, people need sharp tools to do their job. Does CI take too long? Are development machines to slow? Is the code too entangled to make progress? Do we have sufficient tools to write tests? There is a ton to unpack here and look for another blog post on this subject.&lt;/p&gt;
+
+&lt;h3 id=&quot;4-meaning-value-of-the-work&quot;&gt;#4. &lt;strong&gt;Meaning&lt;/strong&gt;: Value of the work&lt;/h3&gt;
+
+&lt;p&gt;I was talking to an old manager about extrinsic motivation, he mentioned to me: “People don’t go work for the red cross for money”. There is a lot to unpack in the analogy, but my key take away is  that the reason behind the mission, vision, and company needs to resonate. It is critical to articulate the why behind the work.&lt;/p&gt;
+
+&lt;p&gt;To bring the &lt;strong&gt;why&lt;/strong&gt; front and center, it helps to bring the customer in front of the team. Even if you’re not a product team there is always someone who depends on your work.&lt;/p&gt;
+
+&lt;p&gt;Building visions and mission statements are worthy of a longer blog post.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 20 Sep 2018 10:10:00 -0700</pubDate>
+        <link>http://localhost:4000/blog/management/2018/09/20/Engineering-Motiviation/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/management/2018/09/20/Engineering-Motiviation/</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>management</category>
+        
+      </item>
+    
+  </channel>
+</rss>

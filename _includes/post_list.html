@@ -1,0 +1,11 @@
+<div class="post-list-item">
+    <div class="post-title">
+        <span><a href="{{ post.url | prepend: site.baseurl }}" class="post-link">{{ post.title }}</a></span>
+    </div>
+    <div class="post-desc">
+        {{ post.content | truncatewords: 30 | strip_html }}
+    </div>
+    <div class="post-date">
+        {{ post.date | date: site.date_format }} {{ post.tags | join:', '}}
+    </div>
+</div>
