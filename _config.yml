@@ -55,10 +55,15 @@ permalink:          pretty
 sass:
   compressed:       true
 
+exclude:
+  - _posts/**/*.jpg
+  - _posts/**/*.png
+
 plugins:
   - jekyll-paginate-v2
   - jekyll-sitemap
   - jekyll-sass-converter
+  - jekyll-postfiles
 
 iawritercopier:
   src: '/Users/willem/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents'

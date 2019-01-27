@@ -2,3 +2,7 @@
 .jekyll-metadata
 *.iml
 .idea/
+_site/
+blog/
+books/
+ideas/

@@ -14,27 +14,36 @@ class IAWriterCopier
 
   def copy
     @categories.each do |category|
-      src_dir = File.join(src, category, "*.{#{@markdown_ext}}")
-      post_dir = File.join(dest, category, '_posts')
+      src_base = File.join(src, category)
+      src_dir = File.join(src_base, "**/*")
+      dest_base = File.join(dest, category, '_posts')
 
-      FileUtils.mkdir_p post_dir
+      FileUtils.mkdir_p dest_base
 
       Dir.glob(src_dir) do |file|
-        filename = File.basename(file)
+        if File.directory? file
+          FileUtils.mkdir_p File.join(dest_base,file.split(src_base)[1])
+          next
+        end
 
-        unless filename.match? /^\d{,4}-\d{,2}-\d{,2}/
+        file_base_dir = File.dirname(file).split(src_base)[1] || ""
+        filename = File.basename(file)
+        destdir = File.join(dest_base, file_base_dir)
+
+        if ! filename =~ /^\d{,4}-\d{,2}-\d{,2}/ && File.extname(filename) =~ /#{@markdown_ext}/
           date = File.birthtime(file).strftime('%Y-%m-%d')
           filename = "#{date}-#{filename}"
         end
 
-        destination_file = File.join(post_dir, filename)
+        destination_file = File.join(destdir, filename)
 
         logger.info "cp #{file} #{destination_file}"
-        src = IO.read(file)
-        unless src.match? /^---/
-          src.prepend(frontmatter)
-        end
-        IO.write(destination_file, src, mode: 'w')
+        FileUtils.cp file, destination_file
+        # src = IO.read(file)
+        # if File.extname(filename) =~ /#{@markdown_ext}/ && ! src =~ /^---/
+        #   src.prepend(frontmatter)
+        # end
+        # IO.write(destination_file, src, mode: 'w')
       end
     end
   end
