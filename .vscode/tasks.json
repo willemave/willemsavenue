@@ -6,7 +6,7 @@
         {
             "label": "Serve",
             "type": "shell",
-            "command": "bundle exec jekyll serve --livereload",
+            "command": "bundle exec jekyll serve",
             "group": {
               "kind": "test",
               "isDefault": true
@@ -15,7 +15,28 @@
             "options": {
                 "cwd": "${workspaceRoot}"
             }
+          },{
+            "label": "Livereload",
+            "type": "shell",
+            "command": "browser-sync -w",
+            "group": {
+              "kind": "test",
+              "isDefault": true
+            },
+            "isBackground": true,
+            "options": {
+                "cwd": "${workspaceRoot}/_site"
+            }
           },
+          {
+            "label": "Chrome",
+            "osx": {
+                "command": "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
+            },
+            "args": [
+                "http://localhost:3000/"
+            ]
+        },
           {
             "label": "Build",
             "type": "shell",

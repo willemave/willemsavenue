@@ -30,7 +30,7 @@ class IAWriterCopier
         filename = File.basename(file)
         destdir = File.join(dest_base, file_base_dir)
 
-        if ! filename =~ /^\d{,4}-\d{,2}-\d{,2}/ && File.extname(filename) =~ /#{@markdown_ext}/
+        if !filename.match?(/^\d{,4}-\d{,2}-\d{,2}/) && File.extname(filename).match?(/#{@markdown_ext}/)
           date = File.birthtime(file).strftime('%Y-%m-%d')
           filename = "#{date}-#{filename}"
         end
@@ -39,11 +39,6 @@ class IAWriterCopier
 
         logger.info "cp #{file} #{destination_file}"
         FileUtils.cp file, destination_file
-        # src = IO.read(file)
-        # if File.extname(filename) =~ /#{@markdown_ext}/ && ! src =~ /^---/
-        #   src.prepend(frontmatter)
-        # end
-        # IO.write(destination_file, src, mode: 'w')
       end
     end
   end
@@ -67,14 +62,6 @@ class IAWriterCopier
 
   def logger
     Jekyll.logger
-  end
-
-  def frontmatter
-    <<-STR
----
-layout: post
----
-    STR
   end
 end
 
