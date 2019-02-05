@@ -69,7 +69,6 @@ iawritercopier:
   src: '/Users/willem/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents'
   categories:
   - blog
-  - ideas
   - books
 
 navigation:
@@ -89,4 +88,3 @@ pagination:
   collection: 'posts'
   per_page: 1000
   sort_reverse: true
-
