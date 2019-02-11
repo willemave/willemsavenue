@@ -6,3 +6,4 @@ _site/
 blog/
 books/
 ideas/
+.DS_Store
