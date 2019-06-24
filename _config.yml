@@ -45,7 +45,9 @@ google_analytics: UA-22360258-2
 animated:           false
 show_related_posts: false
 show_post_footers:  false
-show_social_icons:  false
+show_social_icons:  true
+show_sharing_icons:  true
+share_twitter: true
 
 # Build settings
 markdown:           kramdown
