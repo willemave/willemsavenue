@@ -2,6 +2,10 @@
 
 set -ex
 
+rm -rf blog/
+rm -rf books/
+rm -rf _site/
+
 jekyll build
 
 /usr/local/bin/rclone sync --s3-secret-access-key `cat ~/.aws-key` _site/ bucket:willemsavenue.com
