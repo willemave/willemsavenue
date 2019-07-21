@@ -1,3 +1,39 @@
+
+<script>
+  var show = function (selector) {
+    console.log('test');
+    document.querySelector(selector).classList.remove('invisible');
+  };
+
+  var hide = function (selector) {
+    document.querySelector(selector).classList.add('invisible');
+  };
+
+  document.addEventListener('keyup', function (e) {
+    console.log(e);
+    if (e.keyCode == 27) {
+      hide('.about')
+    }
+  });
+</script>
+
+<div class="about sheet invisible">
+  <div class="close" id="close" onclick="javascript:hide('.about');">
+    <svg viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg">
+      <line x1="1" y1="11" x2="11" y2="1" stroke="black" stroke-width="2"/>
+      <line x1="1" y1="1" x2="11" y2="11" stroke="black" stroke-width="2"/>
+    </svg>
+  </div>
+  <div class="content">
+    <span class="intro">👋</span>
+    <a href="/me">About Me</a>
+    <a href="/feed.xml">RSS</a>
+    <a href="https://twitter.com/willemaw">Twitter</a>
+    <a href="https://www.linkedin.com/in/willem-av%C3%A9-238917/)">LinkedIn</a>
+    <a href="https://github.com/willemave">Github</a>
+  </div>
+</div>
+
 <footer class="footer">
   <div class="clearfix"></div>
 </footer>

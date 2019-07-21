@@ -7,21 +7,21 @@ layout: default
 {% endif %}
 
 <div class="post-header">
-  <h2>{{ page.title }}</h2>
-  <span class="post-meta">{{ page.date | date: site.date_format }}
+    <h2>{{ page.title }}</h2>
+
+    <span class="post-meta">{{ page.date | date: site.date_format }}
   {% if page.update_date %}
     <span class="post-meta">{{ site.data.text.post.updated }}: {{ page.update_date | date: site.date_format }}
   {% endif %}
   </span>
 </div>
 
-<article class="post-content">
-  {{ content }}
-</article>
+<div class="applause">
+    <applause-button style="width: 58px; height: 58px;"/>
+</div>
 
-{% if site.twitter_username %}
-<a href="https://twitter.com/messages/compose?recipient_id=2045&ref_src=twsrc%5Etfw" class="twitter-dm-button" data-screen-name="willemaw" data-show-count="false">Message @willemaw</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-{% endif %}
-{% include share_buttons.html %}
+<article class="post-content">
+    {{ content }}
+</article>
 
 {% include post_footer.html %}

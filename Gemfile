@@ -5,5 +5,5 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'jekyll-sass-converter'
   gem 'jekyll-postfiles'
-  gem 'mediumize'
+  gem 'jekyll-assets', "~> 3.0"
 end

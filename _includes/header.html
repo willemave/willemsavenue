@@ -2,11 +2,8 @@
   <span class="title">{{ site.title }}</span>
   <nav class="navigation">
     {% assign url = page.url|remove:'index.html' %}
-    {% for link in site.navigation %}
-
-    <a class="link" href="{{link.url}}"
-       title="{{link.title}}">{{link.text}}</a>
-
-    {% endfor %}
+    <a class="link" href="/">🏠</a>
+    <a class="link" href="/books">📖</a>
+    <a class="link" id="me" onclick="javascript:show('.about')">😀</a>
   </nav>
 </header>
